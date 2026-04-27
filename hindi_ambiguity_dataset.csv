@@ -1,0 +1,1001 @@
+id,sentence,ambiguous_word,correct_meaning,category,language,source
+1,कल वह बाज़ार गया था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+2,कल मैंने एक अच्छी फिल्म देखी।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+3,कल बहुत बारिश हुई थी।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+4,कल उसने मुझे फोन किया था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+5,कल स्कूल में छुट्टी थी।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+6,कल रात हम सब साथ खाना खाए।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+7,कल की मीटिंग बहुत अच्छी रही।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+8,कल मेरे दोस्त का जन्मदिन था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+9,कल बाज़ार बंद था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+10,कल उसने नई नौकरी शुरू की।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+11,कल परीक्षा के नतीजे आए।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+12,कल सड़क पर बहुत जाम था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+13,कल मैंने नई किताब पढ़ी।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+14,कल बिजली नहीं थी।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+15,कल मेरी माँ बीमार थीं।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+16,"कल परीक्षा है, पढ़ाई करो।",कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+17,कल हम दिल्ली जाएंगे।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+18,कल की तैयारी कर लो।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+19,कल मौसम अच्छा रहेगा।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+20,कल से नया काम शुरू होगा।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+21,कल दफ़्तर जल्दी जाना है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+22,कल मेरी डॉक्टर से अपॉइंटमेंट है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+23,कल बस जल्दी आएगी।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+24,कल की रिपोर्ट तैयार करो।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+25,कल मैं तुमसे मिलूंगा।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+26,कल शादी है घर में।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+27,कल सुबह जल्दी उठना होगा।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+28,कल बाज़ार से सब्ज़ी लानी है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+29,कल मेहमान आएंगे।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+30,कल का प्लान बना लो।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+31,परसों वह मुंबई से आया था।,परसों,day_before_yesterday,time_ambiguity,Hindi,custom_annotated
+32,परसों हमने साथ खाना खाया था।,परसों,day_before_yesterday,time_ambiguity,Hindi,custom_annotated
+33,परसों बहुत ठंड थी।,परसों,day_before_yesterday,time_ambiguity,Hindi,custom_annotated
+34,परसों हम घूमने जाएंगे।,परसों,day_after_tomorrow,time_ambiguity,Hindi,custom_annotated
+35,परसों तक रिपोर्ट जमा करो।,परसों,day_after_tomorrow,time_ambiguity,Hindi,custom_annotated
+36,परसों उसकी वापसी होगी।,परसों,day_after_tomorrow,time_ambiguity,Hindi,custom_annotated
+37,"अभी मत जाओ, बैठो।",अभी,right_now,time_ambiguity,Hindi,custom_annotated
+38,अभी खाना तैयार है।,अभी,right_now,time_ambiguity,Hindi,custom_annotated
+39,अभी वह सो रहा है।,अभी,right_now,time_ambiguity,Hindi,custom_annotated
+40,वह अभी गया है।,अभी,just_now,time_ambiguity,Hindi,custom_annotated
+41,अभी-अभी बारिश हुई है।,अभी,just_now,time_ambiguity,Hindi,custom_annotated
+42,मुझे रात को जल्दी सोना है।,सोना,to_sleep,object_action_ambiguity,Hindi,custom_annotated
+43,बच्चा सोना चाहता है।,सोना,to_sleep,object_action_ambiguity,Hindi,custom_annotated
+44,वह सोना भूल गया।,सोना,to_sleep,object_action_ambiguity,Hindi,custom_annotated
+45,देर रात तक सोना ठीक नहीं।,सोना,to_sleep,object_action_ambiguity,Hindi,custom_annotated
+46,उसे अभी सोना है।,सोना,to_sleep,object_action_ambiguity,Hindi,custom_annotated
+47,जल्दी सोना सेहत के लिए अच्छा है।,सोना,to_sleep,object_action_ambiguity,Hindi,custom_annotated
+48,थकान में सोना ज़रूरी है।,सोना,to_sleep,object_action_ambiguity,Hindi,custom_annotated
+49,गर्मी में सोना मुश्किल हो जाता है।,सोना,to_sleep,object_action_ambiguity,Hindi,custom_annotated
+50,उसके पास बहुत सोना है।,सोना,gold,object_action_ambiguity,Hindi,custom_annotated
+51,सोना आज महंगा हो गया।,सोना,gold,object_action_ambiguity,Hindi,custom_annotated
+52,उसने सोने का हार पहना।,सोना,gold,object_action_ambiguity,Hindi,custom_annotated
+53,बाज़ार में सोना बिक रहा है।,सोना,gold,object_action_ambiguity,Hindi,custom_annotated
+54,सोने की कीमत बढ़ गई।,सोना,gold,object_action_ambiguity,Hindi,custom_annotated
+55,उसने सोना खरीदा।,सोना,gold,object_action_ambiguity,Hindi,custom_annotated
+56,दादी के पास पुराना सोना है।,सोना,gold,object_action_ambiguity,Hindi,custom_annotated
+57,सोने में निवेश फ़ायदेमंद है।,सोना,gold,object_action_ambiguity,Hindi,custom_annotated
+58,खाना बहुत स्वादिष्ट था।,खाना,food,object_action_ambiguity,Hindi,custom_annotated
+59,खाना ठंडा हो गया।,खाना,food,object_action_ambiguity,Hindi,custom_annotated
+60,खाना मेज़ पर रखा है।,खाना,food,object_action_ambiguity,Hindi,custom_annotated
+61,घर का खाना सबसे अच्छा होता है।,खाना,food,object_action_ambiguity,Hindi,custom_annotated
+62,खाना बर्बाद मत करो।,खाना,food,object_action_ambiguity,Hindi,custom_annotated
+63,उसने खाना बनाया।,खाना,food,object_action_ambiguity,Hindi,custom_annotated
+64,खाना परोसने में देर हो गई।,खाना,food,object_action_ambiguity,Hindi,custom_annotated
+65,उसे अभी खाना है।,खाना,to_eat,object_action_ambiguity,Hindi,custom_annotated
+66,बाहर खाना मत खाओ।,खाना,to_eat,object_action_ambiguity,Hindi,custom_annotated
+67,जल्दी से खाना खा लो।,खाना,to_eat,object_action_ambiguity,Hindi,custom_annotated
+68,वह दिन में तीन बार खाना खाता है।,खाना,to_eat,object_action_ambiguity,Hindi,custom_annotated
+69,उसे पढ़ना बहुत पसंद है।,पढ़ना,to_read,object_action_ambiguity,Hindi,custom_annotated
+70,किताब पढ़ना अच्छी आदत है।,पढ़ना,to_read,object_action_ambiguity,Hindi,custom_annotated
+71,वह पढ़ना नहीं जानता।,पढ़ना,to_read,object_action_ambiguity,Hindi,custom_annotated
+72,पढ़ना शुरू करो।,पढ़ना,to_study,object_action_ambiguity,Hindi,custom_annotated
+73,परीक्षा के लिए पढ़ना ज़रूरी है।,पढ़ना,to_study,object_action_ambiguity,Hindi,custom_annotated
+74,रात भर पढ़ना ठीक नहीं।,पढ़ना,to_study,object_action_ambiguity,Hindi,custom_annotated
+75,उसे लिखना आता है।,लिखना,to_write,object_action_ambiguity,Hindi,custom_annotated
+76,कविता लिखना उसका शौक है।,लिखना,to_write,object_action_ambiguity,Hindi,custom_annotated
+77,उत्तर लिखना मत भूलो।,लिखना,to_write,object_action_ambiguity,Hindi,custom_annotated
+78,परीक्षा में लिखना तेज़ रखो।,लिखना,to_write_fast,object_action_ambiguity,Hindi,custom_annotated
+79,बैंक में पैसे जमा कर दो।,बैंक,financial_bank,place_ambiguity,Hindi,custom_annotated
+80,बैंक से लोन लेना होगा।,बैंक,financial_bank,place_ambiguity,Hindi,custom_annotated
+81,बैंक का खाता बंद हो गया।,बैंक,financial_bank,place_ambiguity,Hindi,custom_annotated
+82,बैंक की ब्याज दर बढ़ गई।,बैंक,financial_bank,place_ambiguity,Hindi,custom_annotated
+83,बैंक में लंबी लाइन थी।,बैंक,financial_bank,place_ambiguity,Hindi,custom_annotated
+84,बैंक का ATM बंद है।,बैंक,financial_bank,place_ambiguity,Hindi,custom_annotated
+85,बैंक मैनेजर से मिलना है।,बैंक,financial_bank,place_ambiguity,Hindi,custom_annotated
+86,नदी के बैंक पर बहुत शांति थी।,बैंक,river_bank,place_ambiguity,Hindi,custom_annotated
+87,बैंक पर बैठकर मछली पकड़ रहे थे।,बैंक,river_bank,place_ambiguity,Hindi,custom_annotated
+88,गंगा के बैंक पर मेला लगा था।,बैंक,river_bank,place_ambiguity,Hindi,custom_annotated
+89,बैंक पर हरी घास थी।,बैंक,river_bank,place_ambiguity,Hindi,custom_annotated
+90,बच्चे मैदान में खेल रहे हैं।,मैदान,playground,place_ambiguity,Hindi,custom_annotated
+91,मैदान में घास उग आई।,मैदान,field,place_ambiguity,Hindi,custom_annotated
+92,क्रिकेट का मैदान बड़ा था।,मैदान,sports_ground,place_ambiguity,Hindi,custom_annotated
+93,उसके लिए यह बड़ा मैदान था।,मैदान,opportunity,place_ambiguity,Hindi,custom_annotated
+94,राजनीति के मैदान में उतरना मुश्किल है।,मैदान,arena,place_ambiguity,Hindi,custom_annotated
+95,चुनाव के मैदान में कई उम्मीदवार हैं।,मैदान,arena,place_ambiguity,Hindi,custom_annotated
+96,उसका घर बहुत बड़ा है।,घर,house,place_ambiguity,Hindi,custom_annotated
+97,घर में मेहमान आए हैं।,घर,house,place_ambiguity,Hindi,custom_annotated
+98,घर की सफ़ाई करो।,घर,house,place_ambiguity,Hindi,custom_annotated
+99,यह शहर मेरा घर है।,घर,home_emotional,place_ambiguity,Hindi,custom_annotated
+100,दिल्ली मेरा दूसरा घर है।,घर,home_emotional,place_ambiguity,Hindi,custom_annotated
+101,किताबें मेरा घर हैं।,घर,home_emotional,place_ambiguity,Hindi,custom_annotated
+102,पानी पी लो।,पानी,water,place_ambiguity,Hindi,custom_annotated
+103,पानी गर्म कर दो।,पानी,water,place_ambiguity,Hindi,custom_annotated
+104,पानी की बोतल लाओ।,पानी,water,place_ambiguity,Hindi,custom_annotated
+105,उसने अपनी इज़्ज़त पानी में मिला दी।,पानी,reputation_idiom,place_ambiguity,Hindi,custom_annotated
+106,मेहनत पानी में चली गई।,पानी,wasted_idiom,place_ambiguity,Hindi,custom_annotated
+107,"राम और श्याम आए, वो जीत गया।",वो,unclear_ram_or_shyam,pronoun_ambiguity,Hindi,custom_annotated
+108,"सीता और गीता गईं, वह हँस रही थी।",वह,unclear_seeta_or_geeta,pronoun_ambiguity,Hindi,custom_annotated
+109,"मोहन ने रोहन को मारा, वह रो पड़ा।",वह,unclear_mohan_or_rohan,pronoun_ambiguity,Hindi,custom_annotated
+110,"अध्यापक ने छात्र को बुलाया, वह घबरा गया।",वह,unclear_teacher_or_student,pronoun_ambiguity,Hindi,custom_annotated
+111,माँ ने बेटी को बताया कि वह थकी है।,वह,unclear_mother_or_daughter,pronoun_ambiguity,Hindi,custom_annotated
+112,"कुत्ते ने बिल्ली को देखा, वह भाग गई।",वह,unclear_dog_or_cat,pronoun_ambiguity,Hindi,custom_annotated
+113,नेता ने जनता से कहा कि वे खुश हैं।,वे,unclear_leader_or_people,pronoun_ambiguity,Hindi,custom_annotated
+114,"रमेश और सुरेश दोस्त हैं, उसका घर बड़ा है।",उसका,unclear_ramesh_or_suresh,pronoun_ambiguity,Hindi,custom_annotated
+115,"शिक्षक ने विद्यार्थी की किताब ली, उसने पढ़ी।",उसने,unclear_teacher_or_student,pronoun_ambiguity,Hindi,custom_annotated
+116,"पिता ने पुत्र को समझाया, वह नहीं माना।",वह,unclear_father_or_son,pronoun_ambiguity,Hindi,custom_annotated
+117,"सोनू और मोनू खेले, उसने गोल किया।",उसने,unclear_sonu_or_monu,pronoun_ambiguity,Hindi,custom_annotated
+118,"डॉक्टर ने मरीज़ को देखा, वह ठीक हो गया।",वह,unclear_doctor_or_patient,pronoun_ambiguity,Hindi,custom_annotated
+119,"प्रोफ़ेसर ने छात्र को पास किया, वह खुश हुआ।",वह,unclear_professor_or_student,pronoun_ambiguity,Hindi,custom_annotated
+120,"अमित और सुमित बोले, उसने सच कहा।",उसने,unclear_amit_or_sumit,pronoun_ambiguity,Hindi,custom_annotated
+121,"लड़के ने लड़की को देखा, वह मुस्कुराई।",वह,unclear_boy_or_girl,pronoun_ambiguity,Hindi,custom_annotated
+122,माँ ने दादी को बताया कि वह बीमार है।,वह,unclear_mother_or_grandmother,pronoun_ambiguity,Hindi,custom_annotated
+123,"राजा ने मंत्री को बुलाया, वह डर गया।",वह,unclear_king_or_minister,pronoun_ambiguity,Hindi,custom_annotated
+124,"भाई ने बहन को पुकारा, वह नहीं आई।",वह,unclear_brother_or_sister,pronoun_ambiguity,Hindi,custom_annotated
+125,"नौकर ने मालिक को जगाया, वह नाराज़ हुआ।",वह,unclear_servant_or_master,pronoun_ambiguity,Hindi,custom_annotated
+126,"कोच ने खिलाड़ी को ट्रेनिंग दी, वह थक गया।",वह,unclear_coach_or_player,pronoun_ambiguity,Hindi,custom_annotated
+127,उसने काला कोट पहना।,काला,black_color,morphological_ambiguity,Hindi,custom_annotated
+128,काला रंग उसे पसंद है।,काला,black_color,morphological_ambiguity,Hindi,custom_annotated
+129,आसमान काला हो गया।,काला,black_color,morphological_ambiguity,Hindi,custom_annotated
+130,काला आज नहीं आया।,काला,person_name,morphological_ambiguity,Hindi,custom_annotated
+131,काला बहुत होशियार है।,काला,person_name,morphological_ambiguity,Hindi,custom_annotated
+132,हरा पेड़ सुंदर लगता है।,हरा,green_color,morphological_ambiguity,Hindi,custom_annotated
+133,हरा रंग प्रकृति का प्रतीक है।,हरा,green_color,morphological_ambiguity,Hindi,custom_annotated
+134,मैदान हरा-भरा था।,हरा,green_color,morphological_ambiguity,Hindi,custom_annotated
+135,उसने प्रतिद्वंद्वी को हरा दिया।,हरा,to_defeat,morphological_ambiguity,Hindi,custom_annotated
+136,टीम ने विरोधी को हरा दिया।,हरा,to_defeat,morphological_ambiguity,Hindi,custom_annotated
+137,उसे हरा पाना मुश्किल है।,हरा,to_defeat,morphological_ambiguity,Hindi,custom_annotated
+138,उसने पत्र लिखा।,पत्र,written_letter,morphological_ambiguity,Hindi,custom_annotated
+139,पत्र डाक से भेजा।,पत्र,written_letter,morphological_ambiguity,Hindi,custom_annotated
+140,पत्र में सब कुछ लिखा था।,पत्र,written_letter,morphological_ambiguity,Hindi,custom_annotated
+141,पत्र पेड़ से गिर गए।,पत्र,leaf,morphological_ambiguity,Hindi,custom_annotated
+142,हरे पत्र झड़ रहे हैं।,पत्र,leaf,morphological_ambiguity,Hindi,custom_annotated
+143,नेता ने भाषण दिया।,नेता,politician,morphological_ambiguity,Hindi,custom_annotated
+144,नेता जनता के लिए काम करता है।,नेता,leader,morphological_ambiguity,Hindi,custom_annotated
+145,नेता का भरोसा नहीं होता।,नेता,politician_negative,morphological_ambiguity,Hindi,custom_annotated
+146,उसके बाल लंबे हैं।,बाल,hair,morphological_ambiguity,Hindi,custom_annotated
+147,बाल कटवाने जाना है।,बाल,hair,morphological_ambiguity,Hindi,custom_annotated
+148,बाल में तेल लगाओ।,बाल,hair,morphological_ambiguity,Hindi,custom_annotated
+149,बाल मन बहुत कोमल होता है।,बाल,child,morphological_ambiguity,Hindi,custom_annotated
+150,बाल साहित्य बच्चों के लिए होता है।,बाल,child_related,morphological_ambiguity,Hindi,custom_annotated
+151,उसने आँखें मूँद लीं।,आँखें मूँद लीं,closed_eyes_literally,idiom_ambiguity,Hindi,custom_annotated
+152,उसने आँखें मूँद कर हाँ कह दिया।,आँखें मूँद,blindly_agreed_idiom,idiom_ambiguity,Hindi,custom_annotated
+153,वह हाथ धो बैठा।,हाथ धो बैठा,lost_everything_idiom,idiom_ambiguity,Hindi,custom_annotated
+154,उसने हाथ धोए और खाना खाया।,हाथ धोए,washed_hands_literally,idiom_ambiguity,Hindi,custom_annotated
+155,उसने नाक कटवा ली।,नाक कटवा ली,lost_honor_idiom,idiom_ambiguity,Hindi,custom_annotated
+156,उसने नाक पर चोट लगाई।,नाक,nose_literally,idiom_ambiguity,Hindi,custom_annotated
+157,वह पानी-पानी हो गया।,पानी-पानी,ashamed_idiom,idiom_ambiguity,Hindi,custom_annotated
+158,उसने पानी पिया।,पानी,water_literally,idiom_ambiguity,Hindi,custom_annotated
+159,उसने मुँह की खाई।,मुँह की खाई,suffered_defeat_idiom,idiom_ambiguity,Hindi,custom_annotated
+160,उसने मुँह से खाया।,मुँह,mouth_literally,idiom_ambiguity,Hindi,custom_annotated
+161,वह आसमान से गिरा।,आसमान से गिरा,fell_from_grace_idiom,idiom_ambiguity,Hindi,custom_annotated
+162,वह पेड़ से गिरा।,गिरा,fell_literally,idiom_ambiguity,Hindi,custom_annotated
+163,उसकी आँखें खुल गईं।,आँखें खुल गईं,realized_idiom,idiom_ambiguity,Hindi,custom_annotated
+164,सुबह उसकी आँखें खुल गईं।,आँखें खुल गईं,woke_up_literally,idiom_ambiguity,Hindi,custom_annotated
+165,उसने कान पकड़ लिए।,कान पकड़ लिए,apologized_idiom,idiom_ambiguity,Hindi,custom_annotated
+166,उसने बच्चे के कान पकड़े।,कान पकड़े,grabbed_ears_literally,idiom_ambiguity,Hindi,custom_annotated
+167,वह अपनी दुनिया में खोया था।,दुनिया में खोया,lost_in_thoughts_idiom,idiom_ambiguity,Hindi,custom_annotated
+168,वह जंगल में खो गया।,खो गया,got_lost_literally,idiom_ambiguity,Hindi,custom_annotated
+169,उसका दिल डूब गया।,दिल डूब गया,heartbroken_idiom,idiom_ambiguity,Hindi,custom_annotated
+170,नाव पानी में डूब गई।,डूब गई,sank_literally,idiom_ambiguity,Hindi,custom_annotated
+171,उसने सिर उठाया।,सिर उठाया,raised_head_pride_idiom,idiom_ambiguity,Hindi,custom_annotated
+172,उसने ज़मीन से सिर उठाया।,सिर उठाया,lifted_head_literally,idiom_ambiguity,Hindi,custom_annotated
+173,वह मिट्टी में मिल गया।,मिट्टी में मिल गया,destroyed_idiom,idiom_ambiguity,Hindi,custom_annotated
+174,वह कीचड़ में गिरकर मिट्टी में मिल गया।,मिट्टी में मिल गया,fell_in_mud_literally,idiom_ambiguity,Hindi,custom_annotated
+175,उसने रंग उड़ा दिया।,रंग उड़ा दिया,spoiled_mood_idiom,idiom_ambiguity,Hindi,custom_annotated
+176,पानी से कपड़े का रंग उड़ गया।,रंग उड़ गया,color_faded_literally,idiom_ambiguity,Hindi,custom_annotated
+177,वाह! तुमने तो कमाल कर दिया।,वाह,sarcastic_criticism,sarcasm_ambiguity,Hindi,custom_annotated
+178,वाह! यह गाना सच में बहुत अच्छा है।,वाह,genuine_praise,sarcasm_ambiguity,Hindi,custom_annotated
+179,बहुत होशियार हो तुम!,होशियार,sarcastic_foolish,sarcasm_ambiguity,Hindi,custom_annotated
+180,वह बच्चा बहुत होशियार है।,होशियार,genuinely_smart,sarcasm_ambiguity,Hindi,custom_annotated
+181,क्या शानदार काम किया है!,शानदार,sarcastic_bad_work,sarcasm_ambiguity,Hindi,custom_annotated
+182,उसने शानदार प्रदर्शन किया।,शानदार,genuine_performance,sarcasm_ambiguity,Hindi,custom_annotated
+183,बड़े महान हो तुम!,महान,sarcastic_insult,sarcasm_ambiguity,Hindi,custom_annotated
+184,गाँधीजी महान इंसान थे।,महान,genuinely_great,sarcasm_ambiguity,Hindi,custom_annotated
+185,"तुमने तो सब बर्बाद कर दिया, शाबाश!",शाबाश,sarcastic_blame,sarcasm_ambiguity,Hindi,custom_annotated
+186,"शाबाश बेटा, तुमने अच्छा किया।",शाबाश,genuine_appreciation,sarcasm_ambiguity,Hindi,custom_annotated
+187,"बहुत अक्लमंद हो तुम, एक काम भी नहीं होता।",अक्लमंद,sarcastic,sarcasm_ambiguity,Hindi,custom_annotated
+188,वह बड़ा अक्लमंद इंसान है।,अक्लमंद,genuine_wise,sarcasm_ambiguity,Hindi,custom_annotated
+189,"हाँ हाँ, तुम्हीं सबसे अच्छे हो।",अच्छे,sarcastic_irony,sarcasm_ambiguity,Hindi,custom_annotated
+190,वह सच में बहुत अच्छा इंसान है।,अच्छा,genuine_good,sarcasm_ambiguity,Hindi,custom_annotated
+191,"बहुत तेज़ हो तुम, घंटों में एक काम किया।",तेज़,sarcastic_slow,sarcasm_ambiguity,Hindi,custom_annotated
+192,वह तेज़ धावक है।,तेज़,genuinely_fast,sarcasm_ambiguity,Hindi,custom_annotated
+193,"इतनी मेहनत की, दो लाइन लिखी!",मेहनत,sarcastic_lazy,sarcasm_ambiguity,Hindi,custom_annotated
+194,उसने बहुत मेहनत की परीक्षा में।,मेहनत,genuine_hardwork,sarcasm_ambiguity,Hindi,custom_annotated
+195,क्या समझदारी दिखाई तुमने!,समझदारी,sarcastic_foolish_act,sarcasm_ambiguity,Hindi,custom_annotated
+196,उसने समझदारी से काम लिया।,समझदारी,genuine_wisdom,sarcasm_ambiguity,Hindi,custom_annotated
+197,यह project बहुत cool है।,cool,impressive,hinglish_ambiguity,Hindi,custom_annotated
+198,बाहर बहुत cool है आज।,cool,cold_weather,hinglish_ambiguity,Hindi,custom_annotated
+199,उसका attitude बहुत high है।,high,arrogant,hinglish_ambiguity,Hindi,custom_annotated
+200,पहाड़ बहुत high था।,high,tall,hinglish_ambiguity,Hindi,custom_annotated
+201,वह बहुत free है आजकल।,free,available,hinglish_ambiguity,Hindi,custom_annotated
+202,यह app free में मिलती है।,free,no_cost,hinglish_ambiguity,Hindi,custom_annotated
+203,उसका mood off है।,off,bad_mood,hinglish_ambiguity,Hindi,custom_annotated
+204,बिजली off कर दो।,off,switch_off,hinglish_ambiguity,Hindi,custom_annotated
+205,वह बहुत smart दिखता है।,smart,good_looking,hinglish_ambiguity,Hindi,custom_annotated
+206,वह बहुत smart तरीके से बोला।,smart,clever,hinglish_ambiguity,Hindi,custom_annotated
+207,उसका plan बहुत solid है।,solid,strong_plan,hinglish_ambiguity,Hindi,custom_annotated
+208,दीवार बहुत solid है।,solid,physically_strong,hinglish_ambiguity,Hindi,custom_annotated
+209,वह बड़ा star बन गया।,star,celebrity,hinglish_ambiguity,Hindi,custom_annotated
+210,रात को star देखे।,star,celestial_star,hinglish_ambiguity,Hindi,custom_annotated
+211,यह deal बहुत tight है।,tight,strict_deal,hinglish_ambiguity,Hindi,custom_annotated
+212,जूते बहुत tight हैं।,tight,physically_tight,hinglish_ambiguity,Hindi,custom_annotated
+213,उसका network बहुत strong है।,network,social_connections,hinglish_ambiguity,Hindi,custom_annotated
+214,इस जगह network नहीं आता।,network,mobile_network,hinglish_ambiguity,Hindi,custom_annotated
+215,वह बहुत chill इंसान है।,chill,relaxed_person,hinglish_ambiguity,Hindi,custom_annotated
+216,पानी chill करके पियो।,chill,cool_the_water,hinglish_ambiguity,Hindi,custom_annotated
+217,मैंने चश्मे से आदमी को देखा।,चश्मे से,using_glasses,syntactic_ambiguity,Hindi,custom_annotated
+218,मैंने चश्मे से आदमी को देखा।,चश्मे से,man_near_glasses,syntactic_ambiguity,Hindi,custom_annotated
+219,उसने बकरी खाने वाली चीज़ दी।,बकरी खाने वाली,thing_to_feed_goat,syntactic_ambiguity,Hindi,custom_annotated
+220,उसने बकरी खाने वाली चीज़ दी।,बकरी खाने वाली,thing_goat_eats,syntactic_ambiguity,Hindi,custom_annotated
+221,लाल टोपी वाला लड़का भागा।,लाल टोपी वाला,boy_with_red_cap,syntactic_ambiguity,Hindi,custom_annotated
+222,बड़े बच्चों का खिलौना टूट गया।,बड़े बच्चों का,toy_of_big_children,syntactic_ambiguity,Hindi,custom_annotated
+223,बड़े बच्चों का खिलौना टूट गया।,बड़े बच्चों का,big_toy_of_children,syntactic_ambiguity,Hindi,custom_annotated
+224,वह पुराने घर की छत पर था।,पुराने घर की,roof_of_old_house,syntactic_ambiguity,Hindi,custom_annotated
+225,उसने मुझे गुस्से में मारा।,गुस्से में,he_was_angry,syntactic_ambiguity,Hindi,custom_annotated
+226,उसने मुझे गुस्से में मारा।,गुस्से में,i_was_angry,syntactic_ambiguity,Hindi,custom_annotated
+227,काले कोट वाले वकील से मिलो।,काले कोट वाले,lawyer_with_black_coat,syntactic_ambiguity,Hindi,custom_annotated
+228,ठंडे पानी की बोतल लाओ।,ठंडे पानी की,bottle_of_cold_water,syntactic_ambiguity,Hindi,custom_annotated
+229,उसने घर जाकर खाना खाया।,जाकर,went_home_then_ate,syntactic_ambiguity,Hindi,custom_annotated
+230,मैंने सोते हुए बच्चे को देखा।,सोते हुए,child_was_sleeping,syntactic_ambiguity,Hindi,custom_annotated
+231,मैंने सोते हुए बच्चे को देखा।,सोते हुए,i_was_sleeping,syntactic_ambiguity,Hindi,custom_annotated
+232,क्या तुम पानी पी सकते हो?,क्या तुम,literal_question,pragmatic_ambiguity,Hindi,custom_annotated
+233,क्या तुम पानी पी सकते हो?,क्या तुम,request_for_water,pragmatic_ambiguity,Hindi,custom_annotated
+234,क्या यहाँ बैठना ठीक है?,क्या यहाँ,permission_request,pragmatic_ambiguity,Hindi,custom_annotated
+235,क्या यहाँ बैठना ठीक है?,क्या यहाँ,genuine_question,pragmatic_ambiguity,Hindi,custom_annotated
+236,खिड़की बंद है।,खिड़की बंद है,stating_fact,pragmatic_ambiguity,Hindi,custom_annotated
+237,खिड़की बंद है।,खिड़की बंद है,request_to_open,pragmatic_ambiguity,Hindi,custom_annotated
+238,गाड़ी धीरे चलाओ।,धीरे चलाओ,drive_slowly,pragmatic_ambiguity,Hindi,custom_annotated
+239,गाड़ी धीरे चलाओ।,धीरे चलाओ,be_careful,pragmatic_ambiguity,Hindi,custom_annotated
+240,बहुत शोर है यहाँ।,बहुत शोर,complaint,pragmatic_ambiguity,Hindi,custom_annotated
+241,बहुत शोर है यहाँ।,बहुत शोर,request_to_be_quiet,pragmatic_ambiguity,Hindi,custom_annotated
+242,क्या तुम मेरी मदद कर सकते हो?,मदद कर सकते हो,capability_question,pragmatic_ambiguity,Hindi,custom_annotated
+243,क्या तुम मेरी मदद कर सकते हो?,मदद कर सकते हो,direct_request,pragmatic_ambiguity,Hindi,custom_annotated
+244,बाहर ठंड है।,ठंड है,weather_observation,pragmatic_ambiguity,Hindi,custom_annotated
+245,बाहर ठंड है।,ठंड है,warning_to_wear_coat,pragmatic_ambiguity,Hindi,custom_annotated
+246,तुम्हें भूख लगी होगी।,भूख लगी होगी,food_offer,pragmatic_ambiguity,Hindi,custom_annotated
+247,तुम्हें भूख लगी होगी।,भूख लगी होगी,general_statement,pragmatic_ambiguity,Hindi,custom_annotated
+248,यह काम मुश्किल है।,मुश्किल है,warning,pragmatic_ambiguity,Hindi,custom_annotated
+249,यह काम मुश्किल है।,मुश्किल है,excuse,pragmatic_ambiguity,Hindi,custom_annotated
+250,आज मौसम अच्छा है।,मौसम अच्छा है,small_talk,pragmatic_ambiguity,Hindi,custom_annotated
+251,आज मौसम अच्छा है।,मौसम अच्छा है,suggestion_to_go_out,pragmatic_ambiguity,Hindi,custom_annotated
+252,कल से पहले काम खत्म करो।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+253,कल की बात आज मत करो।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+254,कल रात बहुत तेज़ आँधी आई।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+255,कल सुबह मंदिर जाएंगे।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+256,कल से स्कूल शुरू होगा।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+257,कल वह बीमार था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+258,कल छुट्टी रहेगी।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+259,कल की ट्रेन छूट गई।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+260,कल की ट्रेन पकड़नी है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+261,कल बहुत काम था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+262,कल बहुत काम है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+263,कल मेला था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+264,कल मेला है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+265,परसों से छुट्टी शुरू होगी।,परसों,day_after_tomorrow,time_ambiguity,Hindi,custom_annotated
+266,परसों उसका जन्मदिन था।,परसों,day_before_yesterday,time_ambiguity,Hindi,custom_annotated
+267,परसों बहुत बारिश होगी।,परसों,day_after_tomorrow,time_ambiguity,Hindi,custom_annotated
+268,अभी तक काम नहीं हुआ।,अभी,until_now,time_ambiguity,Hindi,custom_annotated
+269,अभी निकलना होगा।,अभी,right_now,time_ambiguity,Hindi,custom_annotated
+270,वह अभी-अभी सो गया।,अभी,just_now,time_ambiguity,Hindi,custom_annotated
+271,अभी वक्त नहीं है।,अभी,right_now,time_ambiguity,Hindi,custom_annotated
+272,कल का अखबार कहाँ है?,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+273,कल का अखबार आने दो।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+274,कल पार्टी में मज़ा आया।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+275,कल पार्टी में मज़ा आएगा।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+276,कल की मुलाकात यादगार थी।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+277,कल की मुलाकात यादगार होगी।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+278,कल रात खाना नहीं खाया।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+279,कल रात खाना मत खाना।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+280,परसों की घटना याद है?,परसों,day_before_yesterday,time_ambiguity,Hindi,custom_annotated
+281,परसों तक पहुँच जाऊंगा।,परसों,day_after_tomorrow,time_ambiguity,Hindi,custom_annotated
+282,सोना बहुत ज़रूरी है शरीर के लिए।,सोना,sleep,object_action_ambiguity,Hindi,custom_annotated
+283,उसने सोने की अंगूठी पहनी।,सोने,gold,object_action_ambiguity,Hindi,custom_annotated
+284,सोना सस्ता नहीं होता।,सोना,gold,object_action_ambiguity,Hindi,custom_annotated
+285,सोना छोड़कर उठो।,सोना,sleep,object_action_ambiguity,Hindi,custom_annotated
+286,उसे सोने की आदत है।,सोने,sleeping_habit,object_action_ambiguity,Hindi,custom_annotated
+287,माँ ने सोने दिया नहीं।,सोने,sleep,object_action_ambiguity,Hindi,custom_annotated
+288,बाज़ार में सोना महंगा है।,सोना,gold,object_action_ambiguity,Hindi,custom_annotated
+289,रात को जल्दी सोना चाहिए।,सोना,sleep,object_action_ambiguity,Hindi,custom_annotated
+290,सोने का भाव क्या है?,सोने,gold_price,object_action_ambiguity,Hindi,custom_annotated
+291,बच्चे को सोने दो।,सोने,sleep,object_action_ambiguity,Hindi,custom_annotated
+292,उसके पास सोने का कड़ा है।,सोने,gold,object_action_ambiguity,Hindi,custom_annotated
+293,ज़्यादा सोना भी नुकसानदेह है।,सोना,sleep,object_action_ambiguity,Hindi,custom_annotated
+294,शादी में सोना देना रिवाज़ है।,सोना,gold,object_action_ambiguity,Hindi,custom_annotated
+295,वह सोने में व्यस्त था।,सोने,sleeping,object_action_ambiguity,Hindi,custom_annotated
+296,उसने सोने में निवेश किया।,सोने,gold,object_action_ambiguity,Hindi,custom_annotated
+297,बैंक में नया खाता खुलवाया।,बैंक,financial_bank,place_ambiguity,Hindi,custom_annotated
+298,बैंक की छुट्टी है आज।,बैंक,financial_bank,place_ambiguity,Hindi,custom_annotated
+299,बैंक से पैसे निकालने हैं।,बैंक,financial_bank,place_ambiguity,Hindi,custom_annotated
+300,नदी के बैंक पर पेड़ लगे थे।,बैंक,river_bank,place_ambiguity,Hindi,custom_annotated
+301,बैंक पर बाढ़ का पानी आ गया।,बैंक,river_bank,place_ambiguity,Hindi,custom_annotated
+302,बैंक बैलेंस कम हो गया।,बैंक,financial_bank,place_ambiguity,Hindi,custom_annotated
+303,बैंक के किनारे झाड़ियाँ थीं।,बैंक,river_bank,place_ambiguity,Hindi,custom_annotated
+304,बैंक ने लोन मंज़ूर किया।,बैंक,financial_bank,place_ambiguity,Hindi,custom_annotated
+305,बैंक की शाखा बंद हो गई।,बैंक,financial_bank,place_ambiguity,Hindi,custom_annotated
+306,बैंक पर मछुआरे बैठे थे।,बैंक,river_bank,place_ambiguity,Hindi,custom_annotated
+307,"अर्जुन और कर्ण लड़े, वह जीत गया।",वह,unclear_arjun_or_karan,pronoun_ambiguity,Hindi,custom_annotated
+308,"नेता और जनता बोले, उसने झूठ बोला।",उसने,unclear_leader_or_public,pronoun_ambiguity,Hindi,custom_annotated
+309,"दादा और पोता आए, उसने मिठाई खाई।",उसने,unclear_grandfather_or_grandson,pronoun_ambiguity,Hindi,custom_annotated
+310,"मालकिन ने नौकरानी को डाँटा, वह रो पड़ी।",वह,unclear_mistress_or_maid,pronoun_ambiguity,Hindi,custom_annotated
+311,"कप्तान और खिलाड़ी थके, उसने आराम किया।",उसने,unclear_captain_or_player,pronoun_ambiguity,Hindi,custom_annotated
+312,"बड़े भाई ने छोटे को समझाया, वह नहीं समझा।",वह,unclear_elder_or_younger,pronoun_ambiguity,Hindi,custom_annotated
+313,"गुरु और शिष्य मिले, उसने प्रणाम किया।",उसने,unclear_guru_or_disciple,pronoun_ambiguity,Hindi,custom_annotated
+314,"लेखक और पाठक मिले, उसने किताब दी।",उसने,unclear_writer_or_reader,pronoun_ambiguity,Hindi,custom_annotated
+315,"माली ने मालिक को बताया, वह नाराज़ हुआ।",वह,unclear_gardener_or_owner,pronoun_ambiguity,Hindi,custom_annotated
+316,"दोनों दोस्त मिले, उसने पहले बात की।",उसने,unclear_friend1_or_friend2,pronoun_ambiguity,Hindi,custom_annotated
+317,"पुलिस और चोर दौड़े, वह पकड़ा गया।",वह,unclear_police_or_thief,pronoun_ambiguity,Hindi,custom_annotated
+318,"छात्रा ने शिक्षिका से पूछा, वह मुस्कुराई।",वह,unclear_student_or_teacher,pronoun_ambiguity,Hindi,custom_annotated
+319,"व्यापारी और ग्राहक मिले, उसने मोलभाव किया।",उसने,unclear_shopkeeper_or_customer,pronoun_ambiguity,Hindi,custom_annotated
+320,"सास और बहू बोलीं, उसने चाय बनाई।",उसने,unclear_mother_or_daughter_in_law,pronoun_ambiguity,Hindi,custom_annotated
+321,"दो नेता मिले, उसने प्रेस से बात की।",उसने,unclear_leader1_or_leader2,pronoun_ambiguity,Hindi,custom_annotated
+322,"वाह! घंटों लगाए, एक लाइन लिखी।",वाह,sarcastic,sarcasm_ambiguity,Hindi,custom_annotated
+323,क्या गज़ब का काम किया है तुमने!,गज़ब,sarcastic_bad,sarcasm_ambiguity,Hindi,custom_annotated
+324,उसने गज़ब का प्रदर्शन किया मैच में।,गज़ब,genuine_amazing,sarcasm_ambiguity,Hindi,custom_annotated
+325,बहुत ज़बरदस्त सोचा तुमने!,ज़बरदस्त,sarcastic,sarcasm_ambiguity,Hindi,custom_annotated
+326,उसका ज़बरदस्त भाषण था।,ज़बरदस्त,genuinely_powerful,sarcasm_ambiguity,Hindi,custom_annotated
+327,"हाँ, तुम्हीं सबसे बड़े विद्वान हो!",विद्वान,sarcastic,sarcasm_ambiguity,Hindi,custom_annotated
+328,वह सच में बड़े विद्वान इंसान थे।,विद्वान,genuine,sarcasm_ambiguity,Hindi,custom_annotated
+329,"बहुत बढ़िया किया, अब सब बर्बाद हुआ।",बढ़िया,sarcastic,sarcasm_ambiguity,Hindi,custom_annotated
+330,उसने बढ़िया खाना बनाया।,बढ़िया,genuine_good,sarcasm_ambiguity,Hindi,custom_annotated
+331,वाकई तुमने इतिहास रच दिया!,इतिहास रच दिया,sarcastic_failure,sarcasm_ambiguity,Hindi,custom_annotated
+332,उसने इतिहास रच दिया खेल में।,इतिहास रच दिया,genuine_achievement,sarcasm_ambiguity,Hindi,custom_annotated
+333,"तुम्हारी वजह से सब ठीक हो गया, शुक्रिया!",शुक्रिया,sarcastic_blame,sarcasm_ambiguity,Hindi,custom_annotated
+334,तुम्हारी मदद के लिए शुक्रिया।,शुक्रिया,genuine_thanks,sarcasm_ambiguity,Hindi,custom_annotated
+335,क्या ज़बरदस्त विचार है! बिल्कुल काम नहीं आएगा।,ज़बरदस्त विचार,sarcastic,sarcasm_ambiguity,Hindi,custom_annotated
+336,तुम्हारा ज़बरदस्त विचार सच में काम आया।,ज़बरदस्त विचार,genuine,sarcasm_ambiguity,Hindi,custom_annotated
+337,वह बहुत busy है हमेशा।,busy,occupied,hinglish_ambiguity,Hindi,custom_annotated
+338,सड़क पर बहुत busy traffic था।,busy,heavy_traffic,hinglish_ambiguity,Hindi,custom_annotated
+339,उसकी life बहुत simple है।,simple,uncomplicated_life,hinglish_ambiguity,Hindi,custom_annotated
+340,यह simple सवाल है।,simple,easy_question,hinglish_ambiguity,Hindi,custom_annotated
+341,वह बहुत serious इंसान है।,serious,stern_person,hinglish_ambiguity,Hindi,custom_annotated
+342,यह बहुत serious मामला है।,serious,grave_matter,hinglish_ambiguity,Hindi,custom_annotated
+343,उसका style बहुत unique है।,unique,distinctive_style,hinglish_ambiguity,Hindi,custom_annotated
+344,यह problem बहुत unique है।,unique,unusual_problem,hinglish_ambiguity,Hindi,custom_annotated
+345,वह बहुत positive सोचता है।,positive,optimistic,hinglish_ambiguity,Hindi,custom_annotated
+346,test positive आया।,positive,medical_positive,hinglish_ambiguity,Hindi,custom_annotated
+347,उसका plan बहुत creative है।,creative,innovative_plan,hinglish_ambiguity,Hindi,custom_annotated
+348,वह बहुत creative इंसान है।,creative,artistic_person,hinglish_ambiguity,Hindi,custom_annotated
+349,आज का session बहुत productive था।,productive,fruitful_session,hinglish_ambiguity,Hindi,custom_annotated
+350,यह machine बहुत productive है।,productive,efficient_machine,hinglish_ambiguity,Hindi,custom_annotated
+351,वह बहुत flexible है।,flexible,adaptable_person,hinglish_ambiguity,Hindi,custom_annotated
+352,यह material बहुत flexible है।,flexible,physically_flexible,hinglish_ambiguity,Hindi,custom_annotated
+353,उसका behaviour बहुत professional है।,professional,formal_behaviour,hinglish_ambiguity,Hindi,custom_annotated
+354,वह professional photographer है।,professional,occupation,hinglish_ambiguity,Hindi,custom_annotated
+355,यह game बहुत addictive है।,addictive,engaging_game,hinglish_ambiguity,Hindi,custom_annotated
+356,यह substance बहुत addictive है।,addictive,habit_forming,hinglish_ambiguity,Hindi,custom_annotated
+357,उसने अपना उल्लू सीधा किया।,उल्लू सीधा किया,selfish_motive_idiom,idiom_ambiguity,Hindi,custom_annotated
+358,उसने पेड़ पर उल्लू को देखा।,उल्लू,owl_literally,idiom_ambiguity,Hindi,custom_annotated
+359,उसने घाव पर नमक छिड़का।,नमक छिड़का,added_to_pain_idiom,idiom_ambiguity,Hindi,custom_annotated
+360,उसने सब्ज़ी पर नमक छिड़का।,नमक छिड़का,added_salt_literally,idiom_ambiguity,Hindi,custom_annotated
+361,वह पाँव पर कुल्हाड़ी मारता है।,पाँव पर कुल्हाड़ी,self_harm_idiom,idiom_ambiguity,Hindi,custom_annotated
+362,मज़दूर ने कुल्हाड़ी उठाई।,कुल्हाड़ी,axe_literally,idiom_ambiguity,Hindi,custom_annotated
+363,उसने रोटी तोड़ी उनके साथ।,रोटी तोड़ी,shared_meal_idiom,idiom_ambiguity,Hindi,custom_annotated
+364,माँ ने रोटी तोड़कर दी।,रोटी तोड़ी,broke_bread_literally,idiom_ambiguity,Hindi,custom_annotated
+365,वह आग में घी डाल रहा है।,आग में घी,aggravating_idiom,idiom_ambiguity,Hindi,custom_annotated
+366,रसोई में आग पर घी रखा।,आग पर घी,cooking_literally,idiom_ambiguity,Hindi,custom_annotated
+367,वह अँगूठा दिखा गया।,अँगूठा दिखा,refused_rudely_idiom,idiom_ambiguity,Hindi,custom_annotated
+368,उसने अपना अँगूठा दिखाया।,अँगूठा दिखाया,showed_thumb_literally,idiom_ambiguity,Hindi,custom_annotated
+369,वह दूध का धुला नहीं है।,दूध का धुला,not_innocent_idiom,idiom_ambiguity,Hindi,custom_annotated
+370,कपड़ा दूध में धुला।,दूध में धुला,washed_in_milk_literally,idiom_ambiguity,Hindi,custom_annotated
+371,उसने अपनी खिचड़ी अलग पकाई।,खिचड़ी अलग पकाई,acted_independently_idiom,idiom_ambiguity,Hindi,custom_annotated
+372,माँ ने खिचड़ी पकाई।,खिचड़ी पकाई,cooked_khichdi_literally,idiom_ambiguity,Hindi,custom_annotated
+373,वह छाती ठोककर बोला।,छाती ठोककर,confident_boast_idiom,idiom_ambiguity,Hindi,custom_annotated
+374,उसने छाती पर हाथ रखा।,छाती पर हाथ,hand_on_chest_literally,idiom_ambiguity,Hindi,custom_annotated
+375,उसके हाथ-पाँव फूल गए।,हाथ-पाँव फूल गए,got_nervous_idiom,idiom_ambiguity,Hindi,custom_annotated
+376,उसके हाथ-पाँव में सूजन आई।,हाथ-पाँव,swelling_literally,idiom_ambiguity,Hindi,custom_annotated
+377,यहाँ बहुत गर्मी है।,गर्मी है,observation,pragmatic_ambiguity,Hindi,custom_annotated
+378,यहाँ बहुत गर्मी है।,गर्मी है,request_to_turn_on_fan,pragmatic_ambiguity,Hindi,custom_annotated
+379,मुझे प्यास लग रही है।,प्यास लग रही,stating_thirst,pragmatic_ambiguity,Hindi,custom_annotated
+380,मुझे प्यास लग रही है।,प्यास लग रही,request_for_water,pragmatic_ambiguity,Hindi,custom_annotated
+381,दरवाज़ा खुला है।,दरवाज़ा खुला,factual_statement,pragmatic_ambiguity,Hindi,custom_annotated
+382,दरवाज़ा खुला है।,दरवाज़ा खुला,warning_about_security,pragmatic_ambiguity,Hindi,custom_annotated
+383,कमरे में अँधेरा है।,अँधेरा है,stating_fact,pragmatic_ambiguity,Hindi,custom_annotated
+384,कमरे में अँधेरा है।,अँधेरा है,request_to_turn_on_light,pragmatic_ambiguity,Hindi,custom_annotated
+385,बारिश हो रही है।,बारिश हो रही,weather_update,pragmatic_ambiguity,Hindi,custom_annotated
+386,बारिश हो रही है।,बारिश हो रही,warning_dont_go_out,pragmatic_ambiguity,Hindi,custom_annotated
+387,खाना ठंडा हो गया।,ठंडा हो गया,food_is_cold,pragmatic_ambiguity,Hindi,custom_annotated
+388,खाना ठंडा हो गया।,ठंडा हो गया,request_to_reheat,pragmatic_ambiguity,Hindi,custom_annotated
+389,बहुत देर हो गई।,देर हो गई,it_is_late,pragmatic_ambiguity,Hindi,custom_annotated
+390,बहुत देर हो गई।,देर हो गई,hurry_up_request,pragmatic_ambiguity,Hindi,custom_annotated
+391,फोन की बैटरी कम है।,बैटरी कम है,observation,pragmatic_ambiguity,Hindi,custom_annotated
+392,फोन की बैटरी कम है।,बैटरी कम है,request_for_charger,pragmatic_ambiguity,Hindi,custom_annotated
+393,सड़क पर भीड़ है।,भीड़ है,traffic_observation,pragmatic_ambiguity,Hindi,custom_annotated
+394,सड़क पर भीड़ है।,भीड़ है,warning_to_take_another_route,pragmatic_ambiguity,Hindi,custom_annotated
+395,बच्चा बीमार है।,बीमार है,health_statement,pragmatic_ambiguity,Hindi,custom_annotated
+396,बच्चा बीमार है।,बीमार है,request_to_see_doctor,pragmatic_ambiguity,Hindi,custom_annotated
+397,मोबाइल का नेटवर्क नहीं है।,नेटवर्क नहीं,network_issue,pragmatic_ambiguity,Hindi,custom_annotated
+398,मोबाइल का नेटवर्क नहीं है।,नेटवर्क नहीं,cant_call,pragmatic_ambiguity,Hindi,custom_annotated
+399,रास्ता लंबा है।,रास्ता लंबा,distance_fact,pragmatic_ambiguity,Hindi,custom_annotated
+400,रास्ता लंबा है।,रास्ता लंबा,suggestion_for_shortcut,pragmatic_ambiguity,Hindi,custom_annotated
+401,यह काम आसान नहीं है।,आसान नहीं,difficulty_statement,pragmatic_ambiguity,Hindi,custom_annotated
+402,यह काम आसान नहीं है।,आसान नहीं,request_for_help,pragmatic_ambiguity,Hindi,custom_annotated
+403,घड़ी बंद हो गई।,घड़ी बंद,watch_stopped,pragmatic_ambiguity,Hindi,custom_annotated
+404,घड़ी बंद हो गई।,घड़ी बंद,need_new_battery,pragmatic_ambiguity,Hindi,custom_annotated
+405,बाज़ार दूर है।,बाज़ार दूर,distance_fact,pragmatic_ambiguity,Hindi,custom_annotated
+406,बाज़ार दूर है।,बाज़ार दूर,request_for_ride,pragmatic_ambiguity,Hindi,custom_annotated
+407,उसने तेज़ चाकू से रोटी काटी।,तेज़ चाकू से,sharp_knife,syntactic_ambiguity,Hindi,custom_annotated
+408,उसने तेज़ चाकू से रोटी काटी।,तेज़ चाकू से,quickly_with_knife,syntactic_ambiguity,Hindi,custom_annotated
+409,नीली कार वाले आदमी को बुलाओ।,नीली कार वाले,man_with_blue_car,syntactic_ambiguity,Hindi,custom_annotated
+410,नीली कार वाले आदमी को बुलाओ।,नीली कार वाले,blue_car_man_meaning,syntactic_ambiguity,Hindi,custom_annotated
+411,वह बड़े प्यार से बोला।,बड़े प्यार से,with_great_love,syntactic_ambiguity,Hindi,custom_annotated
+412,पुराने दोस्त की बात मानो।,पुराने दोस्त की,advice_of_old_friend,syntactic_ambiguity,Hindi,custom_annotated
+413,पुराने दोस्त की बात मानो।,पुराने दोस्त की,old_person_friend,syntactic_ambiguity,Hindi,custom_annotated
+414,उसने गाते हुए खाना बनाया।,गाते हुए,she_was_singing,syntactic_ambiguity,Hindi,custom_annotated
+415,छोटे बच्चों की किताबें लाओ।,छोटे बच्चों की,books_for_small_children,syntactic_ambiguity,Hindi,custom_annotated
+416,छोटे बच्चों की किताबें लाओ।,छोटे बच्चों की,small_books_of_children,syntactic_ambiguity,Hindi,custom_annotated
+417,उसने रोते हुए बच्चे को देखा।,रोते हुए,child_was_crying,syntactic_ambiguity,Hindi,custom_annotated
+418,उसने रोते हुए बच्चे को देखा।,रोते हुए,he_was_crying,syntactic_ambiguity,Hindi,custom_annotated
+419,लाल साड़ी वाली औरत आई।,लाल साड़ी वाली,woman_in_red_saree,syntactic_ambiguity,Hindi,custom_annotated
+420,ठंडे दूध की चाय बनाओ।,ठंडे दूध की,tea_with_cold_milk,syntactic_ambiguity,Hindi,custom_annotated
+421,उसने हँसते हुए जवाब दिया।,हँसते हुए,he_was_smiling,syntactic_ambiguity,Hindi,custom_annotated
+422,उसने लाल रंग की पोशाक पहनी।,लाल,red_color,morphological_ambiguity,Hindi,custom_annotated
+423,लाल जी कल आए थे।,लाल,person_name_lal,morphological_ambiguity,Hindi,custom_annotated
+424,वह लाल हो गया गुस्से में।,लाल,became_red_face,morphological_ambiguity,Hindi,custom_annotated
+425,हाथी बहुत बड़ा जानवर है।,हाथी,elephant_animal,morphological_ambiguity,Hindi,custom_annotated
+426,हाथी जैसी चाल मत चलो।,हाथी,slow_gait_comparison,morphological_ambiguity,Hindi,custom_annotated
+427,उसकी आँखें हिरन जैसी हैं।,हिरन,deer_comparison,morphological_ambiguity,Hindi,custom_annotated
+428,जंगल में हिरन देखा।,हिरन,deer_animal,morphological_ambiguity,Hindi,custom_annotated
+429,उसने गुलाब दिया।,गुलाब,rose_flower,morphological_ambiguity,Hindi,custom_annotated
+430,गुलाब साहब आए हैं।,गुलाब,person_name_gulab,morphological_ambiguity,Hindi,custom_annotated
+431,मोर बहुत सुंदर पक्षी है।,मोर,peacock,morphological_ambiguity,Hindi,custom_annotated
+432,मोर की तरह नाच रहा है।,मोर,dancing_like_peacock,morphological_ambiguity,Hindi,custom_annotated
+433,उसने चाँदी का गहना पहना।,चाँदी,silver_metal,morphological_ambiguity,Hindi,custom_annotated
+434,उसकी आवाज़ चाँदी जैसी है।,चाँदी,silver_voice_comparison,morphological_ambiguity,Hindi,custom_annotated
+435,कमल का फूल खिला।,कमल,lotus_flower,morphological_ambiguity,Hindi,custom_annotated
+436,कमल ने अच्छा काम किया।,कमल,person_name_kamal,morphological_ambiguity,Hindi,custom_annotated
+437,वह कमल जैसा शुद्ध है।,कमल,pure_like_lotus,morphological_ambiguity,Hindi,custom_annotated
+438,उसने सरसों का तेल लिया।,सरसों,mustard,morphological_ambiguity,Hindi,custom_annotated
+439,वह सरसों के खेत में था।,सरसों,mustard_field,morphological_ambiguity,Hindi,custom_annotated
+440,उसके बाल घुंघराले हैं।,बाल,hair_curly,morphological_ambiguity,Hindi,custom_annotated
+441,बाल साहित्य पढ़ना चाहिए।,बाल,children_literature,morphological_ambiguity,Hindi,custom_annotated
+442,बाल दिवस कब है?,बाल,children_day,morphological_ambiguity,Hindi,custom_annotated
+443,उसके सफ़ेद बाल हो गए।,बाल,white_hair,morphological_ambiguity,Hindi,custom_annotated
+444,पानी वाला बर्तन लाओ।,पानी,water,morphological_ambiguity,Hindi,custom_annotated
+445,पानी जैसे लोग कहीं नहीं।,पानी,water_comparison_idiom,morphological_ambiguity,Hindi,custom_annotated
+446,उसने रात को तारे देखे।,तारे,stars,morphological_ambiguity,Hindi,custom_annotated
+447,तारे जैसे चमकते हो तुम।,तारे,celebrity_stars,morphological_ambiguity,Hindi,custom_annotated
+448,फिल्म के तारे आए।,तारे,film_stars,morphological_ambiguity,Hindi,custom_annotated
+449,कल की चिंता मत करो।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+450,कल जो हुआ वो भुला दो।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+451,कल पढ़ाई करनी थी।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+452,कल पढ़ाई करनी है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+453,कल मैच था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+454,कल मैच है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+455,कल खाना अच्छा था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+456,कल खाना अच्छा होगा।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+457,कल से काम बंद था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+458,कल से काम बंद रहेगा।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+459,"अभी सोचो, कल मत सोचो।",कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+460,जो कल हुआ उसे भूलो।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+461,परसों तक वापस आ जाओ।,परसों,day_after_tomorrow,time_ambiguity,Hindi,custom_annotated
+462,परसों बहुत अच्छा दिन था।,परसों,day_before_yesterday,time_ambiguity,Hindi,custom_annotated
+463,"अभी नहीं, बाद में करेंगे।",अभी,right_now,time_ambiguity,Hindi,custom_annotated
+464,अभी बहुत ज़रूरी है।,अभी,urgently_now,time_ambiguity,Hindi,custom_annotated
+465,वह अभी आया है।,अभी,just_now,time_ambiguity,Hindi,custom_annotated
+466,कल होली है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+467,कल होली थी।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+468,कल दीवाली मनाई।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+469,कल दीवाली मनाएंगे।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+470,परसों रक्षाबंधन है।,परसों,day_after_tomorrow,time_ambiguity,Hindi,custom_annotated
+471,परसों रक्षाबंधन था।,परसों,day_before_yesterday,time_ambiguity,Hindi,custom_annotated
+472,अभी खाना खा लो।,अभी,right_now,time_ambiguity,Hindi,custom_annotated
+473,अभी-अभी बिजली गई।,अभी,just_now,time_ambiguity,Hindi,custom_annotated
+474,कल से व्रत रखूंगी।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+475,कल से व्रत रखा था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+476,कल रात ख़्वाब आया।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+477,कल रात ख़्वाब आएगा।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+478,अभी तो खेलो।,अभी,right_now,time_ambiguity,Hindi,custom_annotated
+479,वह रात भर पढ़ता रहा।,पढ़ता,studying,object_action_ambiguity,Hindi,custom_annotated
+480,वह किताब पढ़ रहा है।,पढ़,reading,object_action_ambiguity,Hindi,custom_annotated
+481,बच्चे को खाना खिलाओ।,खाना,food,object_action_ambiguity,Hindi,custom_annotated
+482,उसे अभी कुछ खाना है।,खाना,to_eat,object_action_ambiguity,Hindi,custom_annotated
+483,घर पर खाना बना।,खाना,food_cooked,object_action_ambiguity,Hindi,custom_annotated
+484,वह लिखना जानता है।,लिखना,to_write,object_action_ambiguity,Hindi,custom_annotated
+485,परीक्षा में जल्दी लिखना होगा।,लिखना,write_fast,object_action_ambiguity,Hindi,custom_annotated
+486,पत्र लिखना ज़रूरी है।,लिखना,to_write_letter,object_action_ambiguity,Hindi,custom_annotated
+487,वह रोज़ सोना चाहता है।,सोना,sleep_daily,object_action_ambiguity,Hindi,custom_annotated
+488,घर में सोना रखा है।,सोना,gold_at_home,object_action_ambiguity,Hindi,custom_annotated
+489,सोने के दाम आसमान छू रहे हैं।,सोने,gold_prices,object_action_ambiguity,Hindi,custom_annotated
+490,रात को जल्दी सोने जाओ।,सोने,go_to_sleep,object_action_ambiguity,Hindi,custom_annotated
+491,वह गाना गाना जानता है।,गाना,to_sing,object_action_ambiguity,Hindi,custom_annotated
+492,गाना बहुत अच्छा था।,गाना,song,object_action_ambiguity,Hindi,custom_annotated
+493,नया गाना सुनो।,गाना,song_listen,object_action_ambiguity,Hindi,custom_annotated
+494,वह गाना गाता है।,गाना,singing,object_action_ambiguity,Hindi,custom_annotated
+495,घड़ी बनाना उसका काम है।,बनाना,to_make,object_action_ambiguity,Hindi,custom_annotated
+496,बनाना फल मीठा होता है।,बनाना,banana_fruit,object_action_ambiguity,Hindi,custom_annotated
+497,खाना बनाना सीखो।,बनाना,to_cook,object_action_ambiguity,Hindi,custom_annotated
+498,घर बनाना महंगा है।,बनाना,to_build,object_action_ambiguity,Hindi,custom_annotated
+499,दौड़ना अच्छा व्यायाम है।,दौड़ना,running_exercise,object_action_ambiguity,Hindi,custom_annotated
+500,वह दौड़ना चाहता है।,दौड़ना,wants_to_run,object_action_ambiguity,Hindi,custom_annotated
+501,तैरना सीखो।,तैरना,learn_swimming,object_action_ambiguity,Hindi,custom_annotated
+502,नदी में तैरना ख़तरनाक है।,तैरना,swimming_dangerous,object_action_ambiguity,Hindi,custom_annotated
+503,उड़ना पक्षी का काम है।,उड़ना,flying_birds,object_action_ambiguity,Hindi,custom_annotated
+504,वह उड़ना चाहता है।,उड़ना,wants_to_fly,object_action_ambiguity,Hindi,custom_annotated
+505,बोलना सीखो पहले।,बोलना,learn_to_speak,object_action_ambiguity,Hindi,custom_annotated
+506,बोलना उसकी कमज़ोरी है।,बोलना,speaking_weakness,object_action_ambiguity,Hindi,custom_annotated
+507,सुनना ज़रूरी है।,सुनना,listening_important,object_action_ambiguity,Hindi,custom_annotated
+508,संगीत सुनना पसंद है।,सुनना,listen_to_music,object_action_ambiguity,Hindi,custom_annotated
+509,"पड़ोसी और दोस्त आए, उसने चाय पिलाई।",उसने,unclear_neighbour_or_friend,pronoun_ambiguity,Hindi,custom_annotated
+510,"ड्राइवर और मालिक निकले, वह गाड़ी चला रहा था।",वह,unclear_driver_or_owner,pronoun_ambiguity,Hindi,custom_annotated
+511,"दोनों बहनें आईं, उसने खाना बनाया।",उसने,unclear_sister1_or_sister2,pronoun_ambiguity,Hindi,custom_annotated
+512,"मेहमान और मेज़बान मिले, वह खुश था।",वह,unclear_guest_or_host,pronoun_ambiguity,Hindi,custom_annotated
+513,"लेखिका ने पाठिका को पत्र लिखा, उसने पढ़ा।",उसने,unclear_writer_or_reader,pronoun_ambiguity,Hindi,custom_annotated
+514,"बाप और बेटे झगड़े, वह रोने लगा।",वह,unclear_father_or_son,pronoun_ambiguity,Hindi,custom_annotated
+515,"जज और वकील बोले, उसने सच कहा।",उसने,unclear_judge_or_lawyer,pronoun_ambiguity,Hindi,custom_annotated
+516,"दुकानदार और खरीदार आए, उसने सौदा किया।",उसने,unclear_shopkeeper_or_buyer,pronoun_ambiguity,Hindi,custom_annotated
+517,"गायक और श्रोता मिले, वह भावुक हो गया।",वह,unclear_singer_or_listener,pronoun_ambiguity,Hindi,custom_annotated
+518,"अफ़सर और सिपाही गए, उसने सलाम किया।",उसने,unclear_officer_or_constable,pronoun_ambiguity,Hindi,custom_annotated
+519,"राज्यपाल और मुख्यमंत्री मिले, उसने बात रखी।",उसने,unclear_governor_or_cm,pronoun_ambiguity,Hindi,custom_annotated
+520,"सचिन और रोहित खेले, उसने शतक मारा।",उसने,unclear_sachin_or_rohit,pronoun_ambiguity,Hindi,custom_annotated
+521,"किसान और बनिया मिले, उसने उधार दिया।",उसने,unclear_farmer_or_trader,pronoun_ambiguity,Hindi,custom_annotated
+522,"रानी और दासी निकलीं, वह मुस्कुराई।",वह,unclear_queen_or_maid,pronoun_ambiguity,Hindi,custom_annotated
+523,"पुजारी और भक्त आए, उसने प्रसाद लिया।",उसने,unclear_priest_or_devotee,pronoun_ambiguity,Hindi,custom_annotated
+524,"बढ़ई और मिस्त्री आए, उसने माप लिया।",उसने,unclear_carpenter_or_mason,pronoun_ambiguity,Hindi,custom_annotated
+525,"डाकिया और पोस्टमास्टर आए, उसने चिट्ठी दी।",उसने,unclear_postman_or_postmaster,pronoun_ambiguity,Hindi,custom_annotated
+526,"चालक और यात्री उतरे, उसने सामान उठाया।",उसने,unclear_driver_or_passenger,pronoun_ambiguity,Hindi,custom_annotated
+527,"दादा और नाती मिले, उसने प्यार किया।",उसने,unclear_grandfather_or_grandchild,pronoun_ambiguity,Hindi,custom_annotated
+528,"विद्यार्थी और प्राध्यापक बोले, उसने सवाल किया।",उसने,unclear_student_or_professor,pronoun_ambiguity,Hindi,custom_annotated
+529,तुमने तो सोने पे सुहागा कर दिया!,सोने पे सुहागा,sarcastic_worse,sarcasm_ambiguity,Hindi,custom_annotated
+530,वाकई क्या दिमाग़ चला है तुमने!,दिमाग़ चला,sarcastic_foolish,sarcasm_ambiguity,Hindi,custom_annotated
+531,उसने सच में दिमाग़ चलाया इस बार।,दिमाग़ चलाया,genuine_smart,sarcasm_ambiguity,Hindi,custom_annotated
+532,"हाँ हाँ, तुम्हीं दुनिया के सबसे बड़े विशेषज्ञ हो।",विशेषज्ञ,sarcastic_overconfident,sarcasm_ambiguity,Hindi,custom_annotated
+533,वह इस विषय के सच्चे विशेषज्ञ हैं।,विशेषज्ञ,genuine_expert,sarcasm_ambiguity,Hindi,custom_annotated
+534,"बहुत अच्छा decision लिया, अब देखो क्या हुआ!",अच्छा decision,sarcastic_bad_decision,sarcasm_ambiguity,Hindi,custom_annotated
+535,उसने सच में अच्छा फ़ैसला लिया।,अच्छा फ़ैसला,genuine_good_decision,sarcasm_ambiguity,Hindi,custom_annotated
+536,वाह! तुम तो Einstein हो एकदम!,Einstein,sarcastic_foolish,sarcasm_ambiguity,Hindi,custom_annotated
+537,वह अपने क्षेत्र का Einstein है।,Einstein,genuinely_brilliant,sarcasm_ambiguity,Hindi,custom_annotated
+538,क्या मदद की तुमने! अब सब बिगड़ गया।,मदद,sarcastic_harmful_help,sarcasm_ambiguity,Hindi,custom_annotated
+539,उसने सच में बहुत मदद की।,मदद,genuine_help,sarcasm_ambiguity,Hindi,custom_annotated
+540,"बहुत तरक्की की है तुमने, वही पुराना काम!",तरक्की,sarcastic_no_progress,sarcasm_ambiguity,Hindi,custom_annotated
+541,उसने सच में बहुत तरक्की की है।,तरक्की,genuine_progress,sarcasm_ambiguity,Hindi,custom_annotated
+542,"धन्यवाद, तुम्हारी वजह से सब बर्बाद हुआ।",धन्यवाद,sarcastic_blame,sarcasm_ambiguity,Hindi,custom_annotated
+543,"धन्यवाद, तुम्हारी मदद बहुत काम आई।",धन्यवाद,genuine_thanks,sarcasm_ambiguity,Hindi,custom_annotated
+544,"बहुत नई सोच है तुम्हारी, एकदम पुरानी बात!",नई सोच,sarcastic_old_idea,sarcasm_ambiguity,Hindi,custom_annotated
+545,उसकी सोच सच में नई और ताज़ी है।,नई सोच,genuinely_fresh,sarcasm_ambiguity,Hindi,custom_annotated
+546,वाह! आधे घंटे में एक पेज लिखा!,वाह,sarcastic_slow,sarcasm_ambiguity,Hindi,custom_annotated
+547,वाह! उसने तीन घंटे में पूरा उपन्यास लिखा!,वाह,genuine_amazement,sarcasm_ambiguity,Hindi,custom_annotated
+548,"हाँ, बहुत सुंदर काम किया, सब उलट-पुलट हो गया।",सुंदर काम,sarcastic_mess,sarcasm_ambiguity,Hindi,custom_annotated
+549,उसकी thinking बहुत broad है।,broad,open_minded,hinglish_ambiguity,Hindi,custom_annotated
+550,सड़क बहुत broad है।,broad,wide_road,hinglish_ambiguity,Hindi,custom_annotated
+551,यह topic बहुत sensitive है।,sensitive,delicate_topic,hinglish_ambiguity,Hindi,custom_annotated
+552,उसकी skin बहुत sensitive है।,sensitive,sensitive_skin,hinglish_ambiguity,Hindi,custom_annotated
+553,वह बहुत down है आजकल।,down,feeling_low,hinglish_ambiguity,Hindi,custom_annotated
+554,server down है अभी।,down,server_not_working,hinglish_ambiguity,Hindi,custom_annotated
+555,उसकी performance बहुत average है।,average,below_expectations,hinglish_ambiguity,Hindi,custom_annotated
+556,class का average score अच्छा है।,average,mean_score,hinglish_ambiguity,Hindi,custom_annotated
+557,वह हमेशा late आता है।,late,always_delayed,hinglish_ambiguity,Hindi,custom_annotated
+558,late night खाना मत खाओ।,late,late_night,hinglish_ambiguity,Hindi,custom_annotated
+559,उसका attitude बहुत negative है।,negative,pessimistic,hinglish_ambiguity,Hindi,custom_annotated
+560,test negative आया।,negative,medical_negative,hinglish_ambiguity,Hindi,custom_annotated
+561,यह scene बहुत intense है।,intense,dramatic_scene,hinglish_ambiguity,Hindi,custom_annotated
+562,training बहुत intense थी।,intense,rigorous_training,hinglish_ambiguity,Hindi,custom_annotated
+563,वह बहुत reserved रहता है।,reserved,introverted,hinglish_ambiguity,Hindi,custom_annotated
+564,seat reserved है।,reserved,booked_seat,hinglish_ambiguity,Hindi,custom_annotated
+565,यह topic बहुत complex है।,complex,complicated_topic,hinglish_ambiguity,Hindi,custom_annotated
+566,यह complex में रहते हैं।,complex,housing_complex,hinglish_ambiguity,Hindi,custom_annotated
+567,वह बहुत sharp है।,sharp,intelligent,hinglish_ambiguity,Hindi,custom_annotated
+568,यह knife बहुत sharp है।,sharp,physically_sharp,hinglish_ambiguity,Hindi,custom_annotated
+569,उसकी memory बहुत strong है।,strong,powerful_memory,hinglish_ambiguity,Hindi,custom_annotated
+570,वह physically बहुत strong है।,strong,physically_strong,hinglish_ambiguity,Hindi,custom_annotated
+571,उसका character बहुत solid है।,solid,strong_character,hinglish_ambiguity,Hindi,custom_annotated
+572,यह concrete बहुत solid है।,solid,physically_solid,hinglish_ambiguity,Hindi,custom_annotated
+573,उसकी grip बहुत tight है काम पर।,tight,firm_control,hinglish_ambiguity,Hindi,custom_annotated
+574,जूते बहुत tight हो गए।,tight,shoes_too_small,hinglish_ambiguity,Hindi,custom_annotated
+575,वह बहुत open है सबके साथ।,open,friendly_open,hinglish_ambiguity,Hindi,custom_annotated
+576,दुकान open है क्या?,open,shop_is_open,hinglish_ambiguity,Hindi,custom_annotated
+577,उसका mind बहुत fresh है।,fresh,clear_minded,hinglish_ambiguity,Hindi,custom_annotated
+578,यह सब्ज़ी बहुत fresh है।,fresh,fresh_vegetable,hinglish_ambiguity,Hindi,custom_annotated
+579,उसने अपनी बात काट दी।,बात काट दी,interrupted_idiom,idiom_ambiguity,Hindi,custom_annotated
+580,उसने कैंची से कपड़ा काटा।,काटा,cut_literally,idiom_ambiguity,Hindi,custom_annotated
+581,वह सात पर्दों में रहती है।,सात पर्दों में,very_secluded_idiom,idiom_ambiguity,Hindi,custom_annotated
+582,घर में सात पर्दे लगे हैं।,सात पर्दे,curtains_literally,idiom_ambiguity,Hindi,custom_annotated
+583,उसने आँखें चुराईं।,आँखें चुराईं,avoided_eye_contact_idiom,idiom_ambiguity,Hindi,custom_annotated
+584,उसने आँखें झपकाईं।,आँखें झपकाईं,blinked_eyes_literally,idiom_ambiguity,Hindi,custom_annotated
+585,वह दो नावों पर सवार है।,दो नावों पर,two_timing_idiom,idiom_ambiguity,Hindi,custom_annotated
+586,वह नाव पर बैठा था।,नाव पर,sat_on_boat_literally,idiom_ambiguity,Hindi,custom_annotated
+587,उसने पीठ दिखाई।,पीठ दिखाई,ran_away_idiom,idiom_ambiguity,Hindi,custom_annotated
+588,उसने पीठ पर बोझ उठाया।,पीठ,back_literally,idiom_ambiguity,Hindi,custom_annotated
+589,उसने पानी में आग लगाई।,पानी में आग,created_impossible_situation_idiom,idiom_ambiguity,Hindi,custom_annotated
+590,उसने चूल्हे में आग लगाई।,आग लगाई,lit_fire_literally,idiom_ambiguity,Hindi,custom_annotated
+591,वह अपनी ही राह पर था।,राह,own_path_literal,idiom_ambiguity,Hindi,custom_annotated
+592,उसने अपनी राह चुनी।,राह,chosen_path_metaphor,idiom_ambiguity,Hindi,custom_annotated
+593,उसने दाँत खट्टे कर दिए।,दाँत खट्टे,defeated_completely_idiom,idiom_ambiguity,Hindi,custom_annotated
+594,खट्टे फल खाने से दाँत दर्द हुआ।,दाँत,teeth_literally,idiom_ambiguity,Hindi,custom_annotated
+595,उसने नमक खाया है यहाँ का।,नमक खाया,been_loyal_idiom,idiom_ambiguity,Hindi,custom_annotated
+596,उसने खाने में नमक मिलाया।,नमक,salt_literally,idiom_ambiguity,Hindi,custom_annotated
+597,वह चाँद पर थूकता है।,चाँद पर थूकता,blames_superior_idiom,idiom_ambiguity,Hindi,custom_annotated
+598,रात को चाँद चमक रहा था।,चाँद,moon_literally,idiom_ambiguity,Hindi,custom_annotated
+599,उसकी लाज रखी।,लाज रखी,saved_honor_idiom,idiom_ambiguity,Hindi,custom_annotated
+600,उसने शर्म से मुँह ढका।,शर्म,shame_literally,idiom_ambiguity,Hindi,custom_annotated
+601,उसने तीर चला दिया।,तीर चला दिया,said_harsh_thing_idiom,idiom_ambiguity,Hindi,custom_annotated
+602,शिकारी ने तीर चलाया।,तीर,arrow_literally,idiom_ambiguity,Hindi,custom_annotated
+603,वह आग-बबूला हो गया।,आग-बबूला,very_angry_idiom,idiom_ambiguity,Hindi,custom_annotated
+604,आग से बचो।,आग,fire_literally,idiom_ambiguity,Hindi,custom_annotated
+605,उसने हाथ खींच लिया।,हाथ खींच लिया,withdrew_support_idiom,idiom_ambiguity,Hindi,custom_annotated
+606,उसने दोस्त का हाथ खींचा।,हाथ खींचा,pulled_hand_literally,idiom_ambiguity,Hindi,custom_annotated
+607,वह टस से मस नहीं हुआ।,टस से मस,didnt_budge_idiom,idiom_ambiguity,Hindi,custom_annotated
+608,उसने सिर हिलाया।,सिर हिलाया,nodded_literally,idiom_ambiguity,Hindi,custom_annotated
+609,उसने पीला कुर्ता पहना।,पीला,yellow_color,morphological_ambiguity,Hindi,custom_annotated
+610,पीला जी से मिलना है।,पीला,person_name,morphological_ambiguity,Hindi,custom_annotated
+611,हरी सब्ज़ी खाओ।,हरी,green_vegetable,morphological_ambiguity,Hindi,custom_annotated
+612,हरी दौड़ रही है।,हरी,person_name_hari,morphological_ambiguity,Hindi,custom_annotated
+613,नीली आँखें सुंदर हैं।,नीली,blue_eyes,morphological_ambiguity,Hindi,custom_annotated
+614,नीली अभी नहीं आई।,नीली,person_name_neeli,morphological_ambiguity,Hindi,custom_annotated
+615,उसके सफ़ेद कपड़े थे।,सफ़ेद,white_clothes,morphological_ambiguity,Hindi,custom_annotated
+616,उसके बाल सफ़ेद हो गए।,सफ़ेद,white_hair,morphological_ambiguity,Hindi,custom_annotated
+617,वह भोला इंसान है।,भोला,innocent_person,morphological_ambiguity,Hindi,custom_annotated
+618,भोला आज आया था।,भोला,person_name_bhola,morphological_ambiguity,Hindi,custom_annotated
+619,मुन्ना रो रहा है।,मुन्ना,child_pet_name,morphological_ambiguity,Hindi,custom_annotated
+620,मुन्ना भाई आए हैं।,मुन्ना,person_name_munna,morphological_ambiguity,Hindi,custom_annotated
+621,छोटू काम करता है।,छोटू,child_worker,morphological_ambiguity,Hindi,custom_annotated
+622,छोटू कहाँ गया?,छोटू,person_name_chotu,morphological_ambiguity,Hindi,custom_annotated
+623,वह बड़ा आदमी है।,बड़ा,important_person,morphological_ambiguity,Hindi,custom_annotated
+624,वह बड़ा मकान है।,बड़ा,large_house,morphological_ambiguity,Hindi,custom_annotated
+625,वह छोटा काम नहीं करता।,छोटा,small_work,morphological_ambiguity,Hindi,custom_annotated
+626,छोटा भाई घर पर है।,छोटा,younger_brother,morphological_ambiguity,Hindi,custom_annotated
+627,पतली गली में मत जाओ।,पतली,narrow_lane,morphological_ambiguity,Hindi,custom_annotated
+628,वह बहुत पतली हो गई।,पतली,became_thin,morphological_ambiguity,Hindi,custom_annotated
+629,मोटा रस्सा लाओ।,मोटा,thick_rope,morphological_ambiguity,Hindi,custom_annotated
+630,वह बहुत मोटा हो गया।,मोटा,became_fat,morphological_ambiguity,Hindi,custom_annotated
+631,उजला कपड़ा पहनो।,उजला,white_bright_cloth,morphological_ambiguity,Hindi,custom_annotated
+632,उसका मन उजला है।,उजला,pure_heart,morphological_ambiguity,Hindi,custom_annotated
+633,गहरी नदी में मत उतरो।,गहरी,deep_river,morphological_ambiguity,Hindi,custom_annotated
+634,उसकी आवाज़ गहरी है।,गहरी,deep_voice,morphological_ambiguity,Hindi,custom_annotated
+635,तीखी मिर्च मत खाओ।,तीखी,spicy_chilli,morphological_ambiguity,Hindi,custom_annotated
+636,उसकी बात बहुत तीखी थी।,तीखी,sharp_words,morphological_ambiguity,Hindi,custom_annotated
+637,मीठा खाना पसंद है।,मीठा,sweet_food,morphological_ambiguity,Hindi,custom_annotated
+638,उसका स्वभाव मीठा है।,मीठा,sweet_nature,morphological_ambiguity,Hindi,custom_annotated
+639,मंदिर के पास एक कुआँ था।,पास,near_temple,place_ambiguity,Hindi,custom_annotated
+640,उसके पास पैसे नहीं हैं।,पास,has_no_money,place_ambiguity,Hindi,custom_annotated
+641,वह पास हो गया।,पास,passed_exam,place_ambiguity,Hindi,custom_annotated
+642,पास का बाज़ार बंद है।,पास,nearby_market,place_ambiguity,Hindi,custom_annotated
+643,मैदान के पास स्कूल है।,पास,near_ground,place_ambiguity,Hindi,custom_annotated
+644,उसके पास समय नहीं।,पास,has_no_time,place_ambiguity,Hindi,custom_annotated
+645,दरवाज़े के पास खड़े हो।,पास,near_door,place_ambiguity,Hindi,custom_annotated
+646,वह पास ही रहता है।,पास,lives_nearby,place_ambiguity,Hindi,custom_annotated
+647,परीक्षा में पास होना ज़रूरी है।,पास,pass_exam,place_ambiguity,Hindi,custom_annotated
+648,वह पुल के पास मिला।,पास,near_bridge,place_ambiguity,Hindi,custom_annotated
+649,घाट पर भीड़ थी।,घाट,river_ghat,place_ambiguity,Hindi,custom_annotated
+650,मृत्यु के घाट उतार दिया।,घाट,killed_idiom,place_ambiguity,Hindi,custom_annotated
+651,चौक पर मेला था।,चौक,town_square,place_ambiguity,Hindi,custom_annotated
+652,वह चौक गया अचानक।,चौक,surprised,place_ambiguity,Hindi,custom_annotated
+653,कोने में बैठा था।,कोने,corner_place,place_ambiguity,Hindi,custom_annotated
+654,उसने कोने-कोने में देखा।,कोने,everywhere_searched,place_ambiguity,Hindi,custom_annotated
+655,दुकान के सामने खड़े थे।,सामने,in_front,place_ambiguity,Hindi,custom_annotated
+656,उसने सामने आकर जवाब दिया।,सामने,confronted,place_ambiguity,Hindi,custom_annotated
+657,पीछे मत देखो।,पीछे,dont_look_back_literal,place_ambiguity,Hindi,custom_annotated
+658,पीछे रह गए सब।,पीछे,fell_behind,place_ambiguity,Hindi,custom_annotated
+659,ऊपर से आदेश आया।,ऊपर,from_higher_authority,place_ambiguity,Hindi,custom_annotated
+660,ऊपर छत पर गए।,ऊपर,went_upstairs,place_ambiguity,Hindi,custom_annotated
+661,नीचे से उठाओ।,नीचे,pick_from_below,place_ambiguity,Hindi,custom_annotated
+662,वह नीचे आ गया।,नीचे,came_down,place_ambiguity,Hindi,custom_annotated
+663,अंदर जाओ।,अंदर,go_inside,place_ambiguity,Hindi,custom_annotated
+664,वह अंदर से टूट गया।,अंदर,broken_emotionally,place_ambiguity,Hindi,custom_annotated
+665,बाहर निकलो।,बाहर,go_outside,place_ambiguity,Hindi,custom_annotated
+666,वह बाहर का आदमी है।,बाहर,outsider,place_ambiguity,Hindi,custom_annotated
+667,दाएं मुड़ो।,दाएं,turn_right_direction,place_ambiguity,Hindi,custom_annotated
+668,वह सही दिशा में है।,दिशा,right_direction,place_ambiguity,Hindi,custom_annotated
+669,उत्तर दिशा में जाओ।,उत्तर,north_direction,place_ambiguity,Hindi,custom_annotated
+670,उत्तर दो इस सवाल का।,उत्तर,answer_question,place_ambiguity,Hindi,custom_annotated
+671,सीमा पर तैनात हैं।,सीमा,border,place_ambiguity,Hindi,custom_annotated
+672,सीमा यहाँ पढ़ती है।,सीमा,person_name_seema,place_ambiguity,Hindi,custom_annotated
+673,यह सीमा से बाहर है।,सीमा,beyond_limits,place_ambiguity,Hindi,custom_annotated
+674,वह अपनी सीमा जानता है।,सीमा,knows_limits,place_ambiguity,Hindi,custom_annotated
+675,धरातल पर उतरो।,धरातल,be_realistic,place_ambiguity,Hindi,custom_annotated
+676,धरातल समतल था।,धरातल,flat_ground,place_ambiguity,Hindi,custom_annotated
+677,क्षितिज तक नज़र गई।,क्षितिज,horizon,place_ambiguity,Hindi,custom_annotated
+678,क्षितिज नाम का लड़का है।,क्षितिज,person_name,place_ambiguity,Hindi,custom_annotated
+679,उसने चाय पीते हुए पढ़ाई की।,पीते हुए,while_drinking,syntactic_ambiguity,Hindi,custom_annotated
+680,वह थका हुआ आदमी बैठा था।,थका हुआ,tired_man,syntactic_ambiguity,Hindi,custom_annotated
+681,उसने भागते हुए आदमी को देखा।,भागते हुए,man_was_running,syntactic_ambiguity,Hindi,custom_annotated
+682,उसने भागते हुए आदमी को देखा।,भागते हुए,he_was_running,syntactic_ambiguity,Hindi,custom_annotated
+683,बड़े थैले में सामान भरो।,बड़े थैले में,in_big_bag,syntactic_ambiguity,Hindi,custom_annotated
+684,वह बड़े घर का आदमी है।,बड़े घर का,from_big_family,syntactic_ambiguity,Hindi,custom_annotated
+685,मैंने काँच के टूटे टुकड़े देखे।,काँच के टूटे,broken_glass,syntactic_ambiguity,Hindi,custom_annotated
+686,उसने हाथ हिलाकर बुलाया।,हाथ हिलाकर,waved_hand,syntactic_ambiguity,Hindi,custom_annotated
+687,वह दौड़ते-दौड़ते थक गया।,दौड़ते-दौड़ते,while_running,syntactic_ambiguity,Hindi,custom_annotated
+688,उसने रोते हुए माँ को बुलाया।,रोते हुए,he_was_crying,syntactic_ambiguity,Hindi,custom_annotated
+689,उसने रोते हुए माँ को बुलाया।,रोते हुए,mother_was_crying,syntactic_ambiguity,Hindi,custom_annotated
+690,पुराने ज़माने की बात है।,पुराने ज़माने की,old_times,syntactic_ambiguity,Hindi,custom_annotated
+691,छोटे कमरे की खिड़की टूटी।,छोटे कमरे की,small_rooms_window,syntactic_ambiguity,Hindi,custom_annotated
+692,वह बड़े आराम से सो गया।,बड़े आराम से,very_comfortably,syntactic_ambiguity,Hindi,custom_annotated
+693,उसने खड़े-खड़े खाना खाया।,खड़े-खड़े,while_standing,syntactic_ambiguity,Hindi,custom_annotated
+694,वह बात करते-करते चला गया।,बात करते-करते,while_talking,syntactic_ambiguity,Hindi,custom_annotated
+695,उसने सोते में बात की।,सोते में,while_sleeping,syntactic_ambiguity,Hindi,custom_annotated
+696,नई किताब का पहला पन्ना पढ़ा।,नई किताब का,new_books_page,syntactic_ambiguity,Hindi,custom_annotated
+697,लाल रंग की पुरानी घड़ी टूटी।,लाल रंग की,red_old_watch,syntactic_ambiguity,Hindi,custom_annotated
+698,वह बोलते-बोलते रुक गया।,बोलते-बोलते,while_speaking,syntactic_ambiguity,Hindi,custom_annotated
+699,ठंडे पानी में नहाना अच्छा है।,ठंडे पानी में,in_cold_water,syntactic_ambiguity,Hindi,custom_annotated
+700,उसने मुस्कुराते हुए जवाब दिया।,मुस्कुराते हुए,while_smiling,syntactic_ambiguity,Hindi,custom_annotated
+701,वह देखते-देखते ग़ायब हो गया।,देखते-देखते,right_before_eyes,syntactic_ambiguity,Hindi,custom_annotated
+702,गरम चाय की प्याली टूट गई।,गरम चाय की,hot_teas_cup,syntactic_ambiguity,Hindi,custom_annotated
+703,उसने चिल्लाते हुए बात की।,चिल्लाते हुए,while_shouting,syntactic_ambiguity,Hindi,custom_annotated
+704,वह हँसते-हँसते लोट-पोट हो गया।,हँसते-हँसते,laughing_non_stop,syntactic_ambiguity,Hindi,custom_annotated
+705,उसने सजी-धजी लड़की को देखा।,सजी-धजी,well_dressed_girl,syntactic_ambiguity,Hindi,custom_annotated
+706,बड़े शहर का छोटा घर।,बड़े शहर का,from_big_city,syntactic_ambiguity,Hindi,custom_annotated
+707,उसने चुपके से दरवाज़ा बंद किया।,चुपके से,quietly,syntactic_ambiguity,Hindi,custom_annotated
+708,नई दिल्ली की पुरानी सड़क।,नई दिल्ली की,old_road_in_new_delhi,syntactic_ambiguity,Hindi,custom_annotated
+709,तुम्हारे बिना नहीं चलेगा।,नहीं चलेगा,cant_do_without_you,pragmatic_ambiguity,Hindi,custom_annotated
+710,तुम्हारे बिना नहीं चलेगा।,नहीं चलेगा,wont_function,pragmatic_ambiguity,Hindi,custom_annotated
+711,यह रास्ता ठीक नहीं है।,ठीक नहीं,wrong_way,pragmatic_ambiguity,Hindi,custom_annotated
+712,यह रास्ता ठीक नहीं है।,ठीक नहीं,road_not_good,pragmatic_ambiguity,Hindi,custom_annotated
+713,इतना क्यों खाते हो?,इतना क्यों,concern_for_health,pragmatic_ambiguity,Hindi,custom_annotated
+714,इतना क्यों खाते हो?,इतना क्यों,genuine_curiosity,pragmatic_ambiguity,Hindi,custom_annotated
+715,वह बहुत थका लग रहा है।,थका लग रहा,observation,pragmatic_ambiguity,Hindi,custom_annotated
+716,वह बहुत थका लग रहा है।,थका लग रहा,suggestion_to_rest,pragmatic_ambiguity,Hindi,custom_annotated
+717,यहाँ मच्छर बहुत हैं।,मच्छर बहुत,observation,pragmatic_ambiguity,Hindi,custom_annotated
+718,यहाँ मच्छर बहुत हैं।,मच्छर बहुत,suggestion_to_use_repellent,pragmatic_ambiguity,Hindi,custom_annotated
+719,पेट्रोल ख़त्म होने वाला है।,ख़त्म होने वाला,low_fuel_fact,pragmatic_ambiguity,Hindi,custom_annotated
+720,पेट्रोल ख़त्म होने वाला है।,ख़त्म होने वाला,fill_petrol_request,pragmatic_ambiguity,Hindi,custom_annotated
+721,वह बच्चा अकेला है।,अकेला है,child_is_alone,pragmatic_ambiguity,Hindi,custom_annotated
+722,वह बच्चा अकेला है।,अकेला है,go_be_with_child,pragmatic_ambiguity,Hindi,custom_annotated
+723,बिल्ली दूध पी रही है।,दूध पी रही,cat_drinking_milk,pragmatic_ambiguity,Hindi,custom_annotated
+724,बिल्ली दूध पी रही है।,दूध पी रही,stop_the_cat,pragmatic_ambiguity,Hindi,custom_annotated
+725,यह कपड़ा रंग छोड़ता है।,रंग छोड़ता,fabric_bleeds_color,pragmatic_ambiguity,Hindi,custom_annotated
+726,यह कपड़ा रंग छोड़ता है।,रंग छोड़ता,dont_buy_it,pragmatic_ambiguity,Hindi,custom_annotated
+727,वह बहुत ज़ोर से बोलता है।,ज़ोर से बोलता,observation,pragmatic_ambiguity,Hindi,custom_annotated
+728,वह बहुत ज़ोर से बोलता है।,ज़ोर से बोलता,tell_him_to_be_quiet,pragmatic_ambiguity,Hindi,custom_annotated
+729,कूड़ा भरा है।,कूड़ा भरा,dustbin_is_full,pragmatic_ambiguity,Hindi,custom_annotated
+730,कूड़ा भरा है।,कूड़ा भरा,take_out_trash_request,pragmatic_ambiguity,Hindi,custom_annotated
+731,साइकिल का टायर पंचर है।,पंचर है,tyre_punctured,pragmatic_ambiguity,Hindi,custom_annotated
+732,साइकिल का टायर पंचर है।,पंचर है,get_it_fixed,pragmatic_ambiguity,Hindi,custom_annotated
+733,चाबी नहीं मिल रही।,चाबी नहीं,key_not_found,pragmatic_ambiguity,Hindi,custom_annotated
+734,चाबी नहीं मिल रही।,चाबी नहीं,help_me_find_keys,pragmatic_ambiguity,Hindi,custom_annotated
+735,गैस सिलिंडर ख़त्म है।,ख़त्म है,gas_is_over,pragmatic_ambiguity,Hindi,custom_annotated
+736,गैस सिलिंडर ख़त्म है।,ख़त्म है,order_new_cylinder,pragmatic_ambiguity,Hindi,custom_annotated
+737,कुत्ता बाहर बैठा है।,बाहर बैठा,dog_outside,pragmatic_ambiguity,Hindi,custom_annotated
+738,कुत्ता बाहर बैठा है।,बाहर बैठा,open_door_for_dog,pragmatic_ambiguity,Hindi,custom_annotated
+739,कमीज़ पर दाग़ है।,दाग़ है,shirt_stained,pragmatic_ambiguity,Hindi,custom_annotated
+740,कमीज़ पर दाग़ है।,दाग़ है,change_shirt,pragmatic_ambiguity,Hindi,custom_annotated
+741,नल बंद नहीं हो रहा।,बंद नहीं,tap_not_closing,pragmatic_ambiguity,Hindi,custom_annotated
+742,नल बंद नहीं हो रहा।,बंद नहीं,fix_the_tap,pragmatic_ambiguity,Hindi,custom_annotated
+743,बिजली का बिल बहुत आया।,बहुत आया,high_bill,pragmatic_ambiguity,Hindi,custom_annotated
+744,बिजली का बिल बहुत आया।,बहुत आया,save_electricity,pragmatic_ambiguity,Hindi,custom_annotated
+745,यह जूते पुराने हो गए।,पुराने हो गए,shoes_are_old,pragmatic_ambiguity,Hindi,custom_annotated
+746,यह जूते पुराने हो गए।,पुराने हो गए,buy_new_shoes,pragmatic_ambiguity,Hindi,custom_annotated
+747,बच्चे का बुखार है।,बुखार है,child_has_fever,pragmatic_ambiguity,Hindi,custom_annotated
+748,बच्चे का बुखार है।,बुखार है,take_child_to_doctor,pragmatic_ambiguity,Hindi,custom_annotated
+749,"राजनेता और पत्रकार मिले, उसने सवाल पूछा।",उसने,unclear_politician_or_journalist,pronoun_ambiguity,Hindi,custom_annotated
+750,"माँ और चाची आईं, वह खाना लाई।",वह,unclear_mother_or_aunt,pronoun_ambiguity,Hindi,custom_annotated
+751,"खलनायक और नायक भिड़े, वह जीत गया।",वह,unclear_villain_or_hero,pronoun_ambiguity,Hindi,custom_annotated
+752,"दोनों पड़ोसी लड़े, उसने पुलिस बुलाई।",उसने,unclear_neighbour1_or_2,pronoun_ambiguity,Hindi,custom_annotated
+753,"बड़े और छोटे भाई खेले, वह जीता।",वह,unclear_elder_or_younger_bro,pronoun_ambiguity,Hindi,custom_annotated
+754,"अध्यापिका और छात्रा मिलीं, उसने किताब दी।",उसने,unclear_teacher_or_student_f,pronoun_ambiguity,Hindi,custom_annotated
+755,"ग्राहक और दुकानदार बोले, उसने मना किया।",उसने,unclear_customer_or_shopkeeper,pronoun_ambiguity,Hindi,custom_annotated
+756,"सफ़ाईकर्मी और अफ़सर आए, उसने काम किया।",उसने,unclear_cleaner_or_officer,pronoun_ambiguity,Hindi,custom_annotated
+757,"गायिका और संगीतकार आए, वह गाई।",वह,unclear_singer_f_or_musician,pronoun_ambiguity,Hindi,custom_annotated
+758,"बच्चे और बुज़ुर्ग मिले, उसने प्रणाम किया।",उसने,unclear_child_or_elder,pronoun_ambiguity,Hindi,custom_annotated
+759,"दोनों टीमें लड़ीं, उसने गोल किया।",उसने,unclear_team1_or_team2,pronoun_ambiguity,Hindi,custom_annotated
+760,"नानी और माँ बोलीं, उसने कहानी सुनाई।",उसने,unclear_nani_or_mother,pronoun_ambiguity,Hindi,custom_annotated
+761,"वैज्ञानिक और पत्रकार मिले, उसने खोज बताई।",उसने,unclear_scientist_or_journalist,pronoun_ambiguity,Hindi,custom_annotated
+762,"नेता और कार्यकर्ता आए, उसने भाषण दिया।",उसने,unclear_leader_or_worker,pronoun_ambiguity,Hindi,custom_annotated
+763,"कवि और श्रोता मिले, वह भावुक हुआ।",वह,unclear_poet_or_listener,pronoun_ambiguity,Hindi,custom_annotated
+764,"सास और ननद आईं, उसने चाय बनाई।",उसने,unclear_saas_or_nanad,pronoun_ambiguity,Hindi,custom_annotated
+765,"बॉस और कर्मचारी बोले, उसने माफ़ी माँगी।",उसने,unclear_boss_or_employee,pronoun_ambiguity,Hindi,custom_annotated
+766,"आरोपी और वकील खड़े थे, वह बोला।",वह,unclear_accused_or_lawyer,pronoun_ambiguity,Hindi,custom_annotated
+767,"खरीदार और विक्रेता मिले, उसने दाम बताया।",उसने,unclear_buyer_or_seller,pronoun_ambiguity,Hindi,custom_annotated
+768,"निर्देशक और अभिनेता मिले, उसने सीन दोहराया।",उसने,unclear_director_or_actor,pronoun_ambiguity,Hindi,custom_annotated
+769,"दादी और बेटी बोलीं, उसने गाना गाया।",उसने,unclear_grandma_or_daughter,pronoun_ambiguity,Hindi,custom_annotated
+770,"चपरासी और प्रधानाचार्य आए, उसने दस्तख़त किए।",उसने,unclear_peon_or_principal,pronoun_ambiguity,Hindi,custom_annotated
+771,"लेखक और संपादक मिले, उसने लेख सुधारा।",उसने,unclear_writer_or_editor,pronoun_ambiguity,Hindi,custom_annotated
+772,"रसोइया और मेज़बान बोले, उसने खाना परोसा।",उसने,unclear_cook_or_host,pronoun_ambiguity,Hindi,custom_annotated
+773,"पुलिस और गवाह आए, उसने बयान दिया।",उसने,unclear_police_or_witness,pronoun_ambiguity,Hindi,custom_annotated
+774,"नर्स और मरीज़ बोले, उसने दवा ली।",उसने,unclear_nurse_or_patient,pronoun_ambiguity,Hindi,custom_annotated
+775,"प्रशिक्षक और प्रशिक्षु आए, उसने अभ्यास किया।",उसने,unclear_trainer_or_trainee,pronoun_ambiguity,Hindi,custom_annotated
+776,"सहयोगी और प्रबंधक मिले, उसने रिपोर्ट दी।",उसने,unclear_colleague_or_manager,pronoun_ambiguity,Hindi,custom_annotated
+777,"पर्यटक और गाइड चले, उसने रास्ता दिखाया।",उसने,unclear_tourist_or_guide,pronoun_ambiguity,Hindi,custom_annotated
+778,"माली और मालकिन बोले, उसने पौधा लगाया।",उसने,unclear_gardener_or_mistress,pronoun_ambiguity,Hindi,custom_annotated
+779,कल वह पहुँच जाएगा।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+780,कल वह पहुँच गया था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+781,कल नाटक है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+782,कल नाटक था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+783,कल चुनाव है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+784,कल चुनाव था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+785,कल संगीत कार्यक्रम है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+786,कल संगीत कार्यक्रम था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+787,कल मीटिंग है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+788,कल मीटिंग थी।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+789,कल बाज़ार जाना है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+790,कल बाज़ार गए थे।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+791,अभी शुरू करो।,अभी,start_now,time_ambiguity,Hindi,custom_annotated
+792,अभी खत्म हुआ।,अभी,just_finished,time_ambiguity,Hindi,custom_annotated
+793,परसों लौटेंगे।,परसों,day_after_tomorrow,time_ambiguity,Hindi,custom_annotated
+794,परसों लौटे थे।,परसों,day_before_yesterday,time_ambiguity,Hindi,custom_annotated
+795,कल इम्तिहान है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+796,कल इम्तिहान था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+797,अभी जाओ।,अभी,go_right_now,time_ambiguity,Hindi,custom_annotated
+798,वह अभी आया।,अभी,just_arrived,time_ambiguity,Hindi,custom_annotated
+799,कल खेत में काम होगा।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+800,कल खेत में काम हुआ।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+801,कल रेल पकड़नी है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+802,कल रेल छूट गई।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+803,परसों शादी है।,परसों,day_after_tomorrow,time_ambiguity,Hindi,custom_annotated
+804,परसों शादी थी।,परसों,day_before_yesterday,time_ambiguity,Hindi,custom_annotated
+805,कल त्योहार है।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+806,कल त्योहार था।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+807,अभी सुनो।,अभी,listen_now,time_ambiguity,Hindi,custom_annotated
+808,वह अभी-अभी निकला।,अभी,just_left,time_ambiguity,Hindi,custom_annotated
+809,वह चलना सीख रहा है।,चलना,learning_to_walk,object_action_ambiguity,Hindi,custom_annotated
+810,चलना स्वास्थ्य के लिए अच्छा है।,चलना,walking_health,object_action_ambiguity,Hindi,custom_annotated
+811,ठीक से चलना सीखो।,चलना,walk_properly,object_action_ambiguity,Hindi,custom_annotated
+812,रोज़ चलना चाहिए।,चलना,walk_daily,object_action_ambiguity,Hindi,custom_annotated
+813,यह काम चलना चाहिए।,चलना,work_should_proceed,object_action_ambiguity,Hindi,custom_annotated
+814,उड़ना उसका सपना है।,उड़ना,dream_to_fly,object_action_ambiguity,Hindi,custom_annotated
+815,पक्षी का उड़ना देखा।,उड़ना,bird_flying,object_action_ambiguity,Hindi,custom_annotated
+816,वह रोज़ दौड़ना चाहता है।,दौड़ना,wants_to_run_daily,object_action_ambiguity,Hindi,custom_annotated
+817,दौड़ना बंद करो।,दौड़ना,stop_running,object_action_ambiguity,Hindi,custom_annotated
+818,नाचना उसे पसंद है।,नाचना,likes_dancing,object_action_ambiguity,Hindi,custom_annotated
+819,नाचना मत।,नाचना,dont_dance,object_action_ambiguity,Hindi,custom_annotated
+820,गाना गाना अच्छी बात है।,गाना,singing_is_good,object_action_ambiguity,Hindi,custom_annotated
+821,वह गाना सुन रहा है।,गाना,listening_to_song,object_action_ambiguity,Hindi,custom_annotated
+822,नया गाना आया है।,गाना,new_song_released,object_action_ambiguity,Hindi,custom_annotated
+823,वह गाना भूल गया।,गाना,forgot_the_song,object_action_ambiguity,Hindi,custom_annotated
+824,हँसना बंद करो।,हँसना,stop_laughing,object_action_ambiguity,Hindi,custom_annotated
+825,हँसना सेहत के लिए अच्छा है।,हँसना,laughing_healthy,object_action_ambiguity,Hindi,custom_annotated
+826,रोना मत।,रोना,dont_cry,object_action_ambiguity,Hindi,custom_annotated
+827,रोना अच्छा होता है कभी-कभी।,रोना,crying_okay_sometimes,object_action_ambiguity,Hindi,custom_annotated
+828,सोचना ज़रूरी है।,सोचना,thinking_important,object_action_ambiguity,Hindi,custom_annotated
+829,ज़्यादा सोचना ठीक नहीं।,सोचना,overthinking_bad,object_action_ambiguity,Hindi,custom_annotated
+830,यह पढ़ना मुझे पसंद है।,पढ़ना,reading_this,object_action_ambiguity,Hindi,custom_annotated
+831,रात को पढ़ना थका देता है।,पढ़ना,studying_at_night,object_action_ambiguity,Hindi,custom_annotated
+832,"लिखना छोड़ो, बोलो।",लिखना,stop_writing,object_action_ambiguity,Hindi,custom_annotated
+833,लिखना उसका पेशा है।,लिखना,writing_profession,object_action_ambiguity,Hindi,custom_annotated
+834,खेलना उसका जुनून है।,खेलना,playing_passion,object_action_ambiguity,Hindi,custom_annotated
+835,खेलना बंद करो।,खेलना,stop_playing,object_action_ambiguity,Hindi,custom_annotated
+836,सीखना कभी नहीं रुकना चाहिए।,सीखना,keep_learning,object_action_ambiguity,Hindi,custom_annotated
+837,सीखना आसान नहीं।,सीखना,learning_not_easy,object_action_ambiguity,Hindi,custom_annotated
+838,"देखना अलग है, समझना अलग।",देखना,seeing_vs_understanding,object_action_ambiguity,Hindi,custom_annotated
+839,उसका work बहुत pending है।,pending,work_pending,hinglish_ambiguity,Hindi,custom_annotated
+840,payment pending है।,pending,payment_due,hinglish_ambiguity,Hindi,custom_annotated
+841,वह बहुत update रहता है।,update,keeps_updated,hinglish_ambiguity,Hindi,custom_annotated
+842,phone update करो।,update,software_update,hinglish_ambiguity,Hindi,custom_annotated
+843,उसका future bright है।,bright,good_future,hinglish_ambiguity,Hindi,custom_annotated
+844,कमरे में bright light है।,bright,strong_light,hinglish_ambiguity,Hindi,custom_annotated
+845,उसका career track पर है।,track,career_on_track,hinglish_ambiguity,Hindi,custom_annotated
+846,train track पर है।,track,railway_track,hinglish_ambiguity,Hindi,custom_annotated
+847,उसकी team बहुत strong है।,strong,powerful_team,hinglish_ambiguity,Hindi,custom_annotated
+848,वह mentally strong है।,strong,mentally_tough,hinglish_ambiguity,Hindi,custom_annotated
+849,यह idea बहुत wild है।,wild,crazy_idea,hinglish_ambiguity,Hindi,custom_annotated
+850,जंगल बहुत wild था।,wild,untamed_forest,hinglish_ambiguity,Hindi,custom_annotated
+851,उसकी voice बहुत soft है।,soft,gentle_voice,hinglish_ambiguity,Hindi,custom_annotated
+852,यह material बहुत soft है।,soft,soft_material,hinglish_ambiguity,Hindi,custom_annotated
+853,उसने बहुत smart move किया।,smart,clever_move,hinglish_ambiguity,Hindi,custom_annotated
+854,smart TV ख़रीदी।,smart,smart_device,hinglish_ambiguity,Hindi,custom_annotated
+855,वह बहुत calm रहता है।,calm,composed_person,hinglish_ambiguity,Hindi,custom_annotated
+856,समुद्र बहुत calm था।,calm,calm_sea,hinglish_ambiguity,Hindi,custom_annotated
+857,उसका tone बहुत harsh था।,harsh,harsh_tone,hinglish_ambiguity,Hindi,custom_annotated
+858,मौसम बहुत harsh है।,harsh,harsh_weather,hinglish_ambiguity,Hindi,custom_annotated
+859,यह deal बहुत fair है।,fair,fair_deal,hinglish_ambiguity,Hindi,custom_annotated
+860,fair complexion चाहिए।,fair,light_skin,hinglish_ambiguity,Hindi,custom_annotated
+861,उसका vision बहुत clear है।,clear,clear_vision,hinglish_ambiguity,Hindi,custom_annotated
+862,sky बहुत clear है।,clear,clear_sky,hinglish_ambiguity,Hindi,custom_annotated
+863,उसका message बहुत direct था।,direct,direct_message,hinglish_ambiguity,Hindi,custom_annotated
+864,direct flight है।,direct,non_stop_flight,hinglish_ambiguity,Hindi,custom_annotated
+865,वह बहुत active है।,active,energetic_person,hinglish_ambiguity,Hindi,custom_annotated
+866,account active है।,active,account_is_active,hinglish_ambiguity,Hindi,custom_annotated
+867,उसका response quick था।,quick,fast_response,hinglish_ambiguity,Hindi,custom_annotated
+868,quick lunch खाया।,quick,fast_lunch,hinglish_ambiguity,Hindi,custom_annotated
+869,उसकी growth बहुत fast है।,fast,rapid_growth,hinglish_ambiguity,Hindi,custom_annotated
+870,वह fast है।,fast,upvas_fasting,hinglish_ambiguity,Hindi,custom_annotated
+871,उसने clean image बनाई।,clean,good_reputation,hinglish_ambiguity,Hindi,custom_annotated
+872,कमरा clean करो।,clean,clean_the_room,hinglish_ambiguity,Hindi,custom_annotated
+873,उसकी delivery बहुत smooth थी।,smooth,smooth_delivery,hinglish_ambiguity,Hindi,custom_annotated
+874,सड़क बहुत smooth है।,smooth,smooth_road,hinglish_ambiguity,Hindi,custom_annotated
+875,उसकी thinking बहुत logical है।,logical,logical_thinking,hinglish_ambiguity,Hindi,custom_annotated
+876,यह sequence logical नहीं।,logical,illogical_sequence,hinglish_ambiguity,Hindi,custom_annotated
+877,उसने perfect answer दिया।,perfect,perfect_answer,hinglish_ambiguity,Hindi,custom_annotated
+878,weather perfect है आज।,perfect,perfect_weather,hinglish_ambiguity,Hindi,custom_annotated
+879,"तुमने तो कमाल की तरक्की की, एक साल में कुछ नहीं किया।",तरक्की,sarcastic,sarcasm_ambiguity,Hindi,custom_annotated
+880,उसने सच में कमाल की तरक्की की।,तरक्की,genuine,sarcasm_ambiguity,Hindi,custom_annotated
+881,बहुत दिल खोलकर मदद की तुमने!,दिल खोलकर,sarcastic_no_help,sarcasm_ambiguity,Hindi,custom_annotated
+882,उसने दिल खोलकर मदद की।,दिल खोलकर,genuine_generous,sarcasm_ambiguity,Hindi,custom_annotated
+883,"क्या शानदार भाषण था, कुछ भी समझ नहीं आया।",शानदार,sarcastic_boring,sarcasm_ambiguity,Hindi,custom_annotated
+884,उसका भाषण शानदार था।,शानदार,genuinely_great,sarcasm_ambiguity,Hindi,custom_annotated
+885,"वाह! इतनी मेहनत की, दो मिनट में सो गए।",मेहनत,sarcastic_lazy,sarcasm_ambiguity,Hindi,custom_annotated
+886,उसने दिन-रात मेहनत की।,मेहनत,genuine_hardwork,sarcasm_ambiguity,Hindi,custom_annotated
+887,तुम्हारी बात सुनकर बड़ी अकल आ गई!,अकल,sarcastic_nonsense,sarcasm_ambiguity,Hindi,custom_annotated
+888,उसकी बात सुनकर अकल आ गई।,अकल,genuinely_wise,sarcasm_ambiguity,Hindi,custom_annotated
+889,"हाँ, तुम्हारे जैसा नेता दुनिया में नहीं!",नेता,sarcastic_bad_leader,sarcasm_ambiguity,Hindi,custom_annotated
+890,वह सच में बड़ा नेता है।,नेता,genuinely_great_leader,sarcasm_ambiguity,Hindi,custom_annotated
+891,"बहुत ज़िम्मेदार हो, काम छोड़ कर भागे!",ज़िम्मेदार,sarcastic_irresponsible,sarcasm_ambiguity,Hindi,custom_annotated
+892,वह बहुत ज़िम्मेदार कर्मचारी है।,ज़िम्मेदार,genuine,sarcasm_ambiguity,Hindi,custom_annotated
+893,क्या बुद्धिमान हो तुम!,बुद्धिमान,sarcastic,sarcasm_ambiguity,Hindi,custom_annotated
+894,वह सच में बुद्धिमान है।,बुद्धिमान,genuine,sarcasm_ambiguity,Hindi,custom_annotated
+895,"बहुत ईमानदार हो, सब जानते हैं!",ईमानदार,sarcastic_dishonest,sarcasm_ambiguity,Hindi,custom_annotated
+896,वह बहुत ईमानदार इंसान है।,ईमानदार,genuine,sarcasm_ambiguity,Hindi,custom_annotated
+897,"वाकई बहुत साहसी हो, डर के भागे!",साहसी,sarcastic_coward,sarcasm_ambiguity,Hindi,custom_annotated
+898,वह बहुत साहसी सैनिक है।,साहसी,genuinely_brave,sarcasm_ambiguity,Hindi,custom_annotated
+899,"तुमने तो इतिहास बना दिया, सबसे बड़ी गलती की!",इतिहास,sarcastic_mistake,sarcasm_ambiguity,Hindi,custom_annotated
+900,उसने खेल में इतिहास बना दिया।,इतिहास,genuine_achievement,sarcasm_ambiguity,Hindi,custom_annotated
+901,"हाँ, बहुत कुशल हो, एक काम ठीक से नहीं होता।",कुशल,sarcastic_incompetent,sarcasm_ambiguity,Hindi,custom_annotated
+902,वह बहुत कुशल कारीगर है।,कुशल,genuine_skilled,sarcasm_ambiguity,Hindi,custom_annotated
+903,"बहुत सज्जन हो, सबको धोखा देते हो।",सज्जन,sarcastic_fraud,sarcasm_ambiguity,Hindi,custom_annotated
+904,वह सच में सज्जन पुरुष है।,सज्जन,genuine_gentleman,sarcasm_ambiguity,Hindi,custom_annotated
+905,वाह! घर को तुमने स्वर्ग बना दिया!,स्वर्ग,sarcastic_mess,sarcasm_ambiguity,Hindi,custom_annotated
+906,माँ ने घर को स्वर्ग बना दिया।,स्वर्ग,genuine_heaven,sarcasm_ambiguity,Hindi,custom_annotated
+907,तुम्हारी कला देखकर आँखें खुल गईं!,आँखें खुल गईं,sarcastic_bad_art,sarcasm_ambiguity,Hindi,custom_annotated
+908,उसकी कला देखकर आँखें खुल गईं।,आँखें खुल गईं,genuinely_inspiring,sarcasm_ambiguity,Hindi,custom_annotated
+909,लाल टमाटर लाओ।,लाल,red_tomato,morphological_ambiguity,Hindi,custom_annotated
+910,लाल साहब का इंतज़ार है।,लाल,respected_name,morphological_ambiguity,Hindi,custom_annotated
+911,गोरा रंग उसे पसंद है।,गोरा,fair_skin,morphological_ambiguity,Hindi,custom_annotated
+912,गोरा कहाँ गया?,गोरा,person_name_gora,morphological_ambiguity,Hindi,custom_annotated
+913,काली बिल्ली रास्ता काटती है।,काली,black_cat,morphological_ambiguity,Hindi,custom_annotated
+914,काली आज आई थी।,काली,person_name_kali,morphological_ambiguity,Hindi,custom_annotated
+915,नीला आसमान सुंदर है।,नीला,blue_sky,morphological_ambiguity,Hindi,custom_annotated
+916,नीला यहाँ रहता है।,नीला,person_name_neela,morphological_ambiguity,Hindi,custom_annotated
+917,पीला फूल खिला।,पीला,yellow_flower,morphological_ambiguity,Hindi,custom_annotated
+918,पीला बुखार ख़तरनाक है।,पीला,yellow_fever,morphological_ambiguity,Hindi,custom_annotated
+919,हरे पत्ते झड़ रहे हैं।,हरे,green_leaves,morphological_ambiguity,Hindi,custom_annotated
+920,हरे कृष्ण हरे राम।,हरे,religious_phrase,morphological_ambiguity,Hindi,custom_annotated
+921,सुनहरा मौका मत गँवाओ।,सुनहरा,golden_opportunity,morphological_ambiguity,Hindi,custom_annotated
+922,सुनहरी धूप निकली।,सुनहरी,golden_sunlight,morphological_ambiguity,Hindi,custom_annotated
+923,चाँदी का चम्मच है।,चाँदी,silver_spoon,morphological_ambiguity,Hindi,custom_annotated
+924,उसकी आवाज़ में चाँदी है।,चाँदी,silver_voice,morphological_ambiguity,Hindi,custom_annotated
+925,गुलाबी साड़ी पहनी।,गुलाबी,pink_saree,morphological_ambiguity,Hindi,custom_annotated
+926,उसकी गुलाबी दुनिया है।,गुलाबी,rosy_world,morphological_ambiguity,Hindi,custom_annotated
+927,काला धन पकड़ा गया।,काला,black_money,morphological_ambiguity,Hindi,custom_annotated
+928,काला पहाड़ दिखा।,काला,dark_mountain,morphological_ambiguity,Hindi,custom_annotated
+929,वह चुपचाप बैठा था।,चुपचाप,sitting_quietly,syntactic_ambiguity,Hindi,custom_annotated
+930,उसने चुपचाप काम किया।,चुपचाप,worked_silently,syntactic_ambiguity,Hindi,custom_annotated
+931,वह धीरे-धीरे बोला।,धीरे-धीरे,spoke_slowly,syntactic_ambiguity,Hindi,custom_annotated
+932,वह धीरे-धीरे चलता है।,धीरे-धीरे,walks_slowly,syntactic_ambiguity,Hindi,custom_annotated
+933,उसने ज़ोर से दरवाज़ा बंद किया।,ज़ोर से,slammed_door,syntactic_ambiguity,Hindi,custom_annotated
+934,उसने ज़ोर से पुकारा।,ज़ोर से,called_loudly,syntactic_ambiguity,Hindi,custom_annotated
+935,वह सावधानी से चला।,सावधानी से,walked_carefully,syntactic_ambiguity,Hindi,custom_annotated
+936,उसने सावधानी से काम किया।,सावधानी से,worked_carefully,syntactic_ambiguity,Hindi,custom_annotated
+937,वह खुशी से नाचा।,खुशी से,danced_happily,syntactic_ambiguity,Hindi,custom_annotated
+938,उसने खुशी से स्वीकार किया।,खुशी से,accepted_happily,syntactic_ambiguity,Hindi,custom_annotated
+939,उसने प्यार से समझाया।,प्यार से,explained_lovingly,syntactic_ambiguity,Hindi,custom_annotated
+940,वह प्यार से बोली।,प्यार से,spoke_affectionately,syntactic_ambiguity,Hindi,custom_annotated
+941,उसने गुस्से से देखा।,गुस्से से,looked_angrily,syntactic_ambiguity,Hindi,custom_annotated
+942,उसने गुस्से से जवाब दिया।,गुस्से से,replied_angrily,syntactic_ambiguity,Hindi,custom_annotated
+943,उसने हिम्मत से काम किया।,हिम्मत से,worked_bravely,syntactic_ambiguity,Hindi,custom_annotated
+944,वह हिम्मत से लड़ा।,हिम्मत से,fought_bravely,syntactic_ambiguity,Hindi,custom_annotated
+945,उसने मन लगाकर पढ़ा।,मन लगाकर,studied_attentively,syntactic_ambiguity,Hindi,custom_annotated
+946,उसने मन लगाकर खाना बनाया।,मन लगाकर,cooked_with_heart,syntactic_ambiguity,Hindi,custom_annotated
+947,उसने तेज़ी से दौड़ा।,तेज़ी से,ran_fast,syntactic_ambiguity,Hindi,custom_annotated
+948,उसने तेज़ी से लिखा।,तेज़ी से,wrote_fast,syntactic_ambiguity,Hindi,custom_annotated
+949,उसने मुँह पर ताला लगा लिया।,ताला लगा लिया,stayed_silent_idiom,idiom_ambiguity,Hindi,custom_annotated
+950,उसने दरवाज़े पर ताला लगाया।,ताला लगाया,locked_door_literally,idiom_ambiguity,Hindi,custom_annotated
+951,वह छाती पर साँप लोटा रहा था।,साँप लोटा,extreme_jealousy_idiom,idiom_ambiguity,Hindi,custom_annotated
+952,साँप बाग में था।,साँप,snake_literally,idiom_ambiguity,Hindi,custom_annotated
+953,उसने पानी पी-पीकर कोसा।,पानी पी-पीकर,cursed_repeatedly_idiom,idiom_ambiguity,Hindi,custom_annotated
+954,उसने पानी पी-पीकर गाया।,पानी पी-पीकर,drank_water_and_sang,idiom_ambiguity,Hindi,custom_annotated
+955,वह अपनी ही खिचड़ी पका रहा है।,खिचड़ी पका रहा,doing_own_thing_idiom,idiom_ambiguity,Hindi,custom_annotated
+956,माँ खिचड़ी पका रही है।,खिचड़ी पका,cooking_khichdi_literally,idiom_ambiguity,Hindi,custom_annotated
+957,उसने मीठा ज़हर दिया।,मीठा ज़हर,sweet_deceit_idiom,idiom_ambiguity,Hindi,custom_annotated
+958,डॉक्टर ने दवाई दी।,दवाई,medicine_literally,idiom_ambiguity,Hindi,custom_annotated
+959,वह अपने पाँव पर कुल्हाड़ी मारता है।,पाँव पर कुल्हाड़ी,self_destructive_idiom,idiom_ambiguity,Hindi,custom_annotated
+960,उसने लकड़ी काटने को कुल्हाड़ी उठाई।,कुल्हाड़ी उठाई,axe_for_wood_literally,idiom_ambiguity,Hindi,custom_annotated
+961,उसने अपना उल्लू बनाया।,उल्लू बनाया,made_fool_of_self_idiom,idiom_ambiguity,Hindi,custom_annotated
+962,बच्चे ने उल्लू का चित्र बनाया।,उल्लू,owl_picture_literally,idiom_ambiguity,Hindi,custom_annotated
+963,उसने लोहा मना लिया।,लोहा मना लिया,acknowledged_strength_idiom,idiom_ambiguity,Hindi,custom_annotated
+964,लुहार ने लोहा गर्म किया।,लोहा,iron_literally,idiom_ambiguity,Hindi,custom_annotated
+965,वह अंधेरे में तीर चलाता है।,अंधेरे में तीर,random_guessing_idiom,idiom_ambiguity,Hindi,custom_annotated
+966,शिकारी ने अंधेरे में देखा।,अंधेरे में,darkness_literally,idiom_ambiguity,Hindi,custom_annotated
+967,वह घी के दीए जलाए।,घी के दीए,celebrate_idiom,idiom_ambiguity,Hindi,custom_annotated
+968,पूजा में घी का दीया जला।,घी का दीया,lamp_literally,idiom_ambiguity,Hindi,custom_annotated
+969,उसने नाक में दम कर दिया।,नाक में दम,troubled_a_lot_idiom,idiom_ambiguity,Hindi,custom_annotated
+970,उसकी नाक बंद है।,नाक,blocked_nose_literally,idiom_ambiguity,Hindi,custom_annotated
+971,वह अपनी छाती ठोकता है।,छाती ठोकता,boasts_idiom,idiom_ambiguity,Hindi,custom_annotated
+972,डॉक्टर ने छाती देखी।,छाती,chest_check_literally,idiom_ambiguity,Hindi,custom_annotated
+973,उसने सीधी बात कही।,सीधी बात,spoke_directly,idiom_ambiguity,Hindi,custom_annotated
+974,रास्ता सीधा था।,सीधा,straight_road_literally,idiom_ambiguity,Hindi,custom_annotated
+975,वह गले का हार है।,गले का हार,very_precious_idiom,idiom_ambiguity,Hindi,custom_annotated
+976,उसने गले में हार पहना।,गले में हार,necklace_literally,idiom_ambiguity,Hindi,custom_annotated
+977,वह आस्तीन का साँप है।,आस्तीन का साँप,backstabber_idiom,idiom_ambiguity,Hindi,custom_annotated
+978,उसकी आस्तीन गंदी थी।,आस्तीन,sleeve_literally,idiom_ambiguity,Hindi,custom_annotated
+979,उसने दाँत पीसे।,दाँत पीसे,gritted_teeth_anger_idiom,idiom_ambiguity,Hindi,custom_annotated
+980,दाँत दर्द से बेहाल था।,दाँत,tooth_pain_literally,idiom_ambiguity,Hindi,custom_annotated
+981,उसने तेज़ आवाज़ में गाया।,तेज़ आवाज़ में,loud_voice,syntactic_ambiguity,Hindi,custom_annotated
+982,उसने धीमी आवाज़ में कहा।,धीमी आवाज़ में,soft_voice,syntactic_ambiguity,Hindi,custom_annotated
+983,वह प्रेम से मिला।,प्रेम से,met_lovingly,syntactic_ambiguity,Hindi,custom_annotated
+984,उसने विश्वास से कहा।,विश्वास से,said_confidently,syntactic_ambiguity,Hindi,custom_annotated
+985,उसने आराम से जवाब दिया।,आराम से,replied_calmly,syntactic_ambiguity,Hindi,custom_annotated
+986,वह दर्द से कराहा।,दर्द से,groaned_in_pain,syntactic_ambiguity,Hindi,custom_annotated
+987,उसने नम्रता से बात की।,नम्रता से,spoke_humbly,syntactic_ambiguity,Hindi,custom_annotated
+988,वह भय से काँपा।,भय से,trembled_in_fear,syntactic_ambiguity,Hindi,custom_annotated
+989,उसने शर्म से मुँह छुपाया।,शर्म से,hid_face_in_shame,syntactic_ambiguity,Hindi,custom_annotated
+990,वह आँसुओं से बोला।,आँसुओं से,spoke_with_tears,syntactic_ambiguity,Hindi,custom_annotated
+991,कल की चाय ठंडी थी।,कल,yesterday,time_ambiguity,Hindi,custom_annotated
+992,कल की चाय गर्म रखना।,कल,tomorrow,time_ambiguity,Hindi,custom_annotated
+993,वह पास के गाँव में रहता है।,पास,nearby_village,place_ambiguity,Hindi,custom_annotated
+994,परीक्षा में पास हो गए।,पास,passed_exam,place_ambiguity,Hindi,custom_annotated
+995,उसने साफ़ दिल से माफ़ी माँगी।,साफ़ दिल से,sincere_apology,syntactic_ambiguity,Hindi,custom_annotated
+996,उसने खुले दिल से स्वागत किया।,खुले दिल से,welcomed_wholeheartedly,syntactic_ambiguity,Hindi,custom_annotated
+997,वह मज़बूत इरादे से आया था।,मज़बूत इरादे से,came_with_strong_intent,syntactic_ambiguity,Hindi,custom_annotated
+998,वह थरथराते हाथों से लिखा।,थरथराते हाथों से,wrote_with_trembling_hands,syntactic_ambiguity,Hindi,custom_annotated
+999,उसने भीगी आँखों से देखा।,भीगी आँखों से,looked_with_teary_eyes,syntactic_ambiguity,Hindi,custom_annotated
+1000,वह टूटे मन से लौटा।,टूटे मन से,returned_heartbroken,syntactic_ambiguity,Hindi,custom_annotated
