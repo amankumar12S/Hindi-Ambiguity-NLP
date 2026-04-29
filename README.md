@@ -1,9 +1,9 @@
 # Hindi Ambiguity Resolution using Large Language Models
 
 ##  Project Overview
-In Natural Language Processing, ambiguity occurs when a word or sentence has multiple possible meanings[cite: 120]. [cite_start]Hindi is especially challenging due to its morphologically rich structure, where the same word can mean different things in different contexts[cite: 122]. 
+In Natural Language Processing, ambiguity occurs when a word or sentence has multiple possible meanings.Hindi is especially challenging due to its morphologically rich structure, where the same word can mean different things in different contexts. 
 
-The goal of this project is to fine-tune a small transformer model to identify the correct meaning of ambiguous Hindi words based on their context[cite: 123]. By providing the model with a Hindi sentence, the ambiguous word, and the ambiguity type, it predicts the correct contextual meaning[cite: 124, 125].
+The goal of this project is to fine-tune a small transformer model to identify the correct meaning of ambiguous Hindi words based on their context. By providing the model with a Hindi sentence, the ambiguous word, and the ambiguity type, it predicts the correct contextual meaning.
 
 ---
 
